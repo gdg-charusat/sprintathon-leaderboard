@@ -3,6 +3,10 @@
 This repository is the **central leaderboard** for the GDG CHARUSAT Sprintathon.  
 Points are collected automatically from all 6 participating repositories when PRs are merged.
 
+## 📊 Live Leaderboard
+
+👉 **[View leaderboard.md](./leaderboard.md)**
+
 ## 📦 Tracked Repositories
 
 | Repo | Type |
@@ -13,10 +17,6 @@ Points are collected automatically from all 6 participating repositories when PR
 | [CareXpert_backend](https://github.com/gdg-charusat/CareXpert_backend) | Backend |
 | [Code_duel_frontend](https://github.com/gdg-charusat/Code_duel_frontend) | Frontend |
 | [Code_duel_backend](https://github.com/gdg-charusat/Code_duel_backend) | Backend |
-
-## 📊 Live Leaderboard
-
-👉 **[View leaderboard.md](./leaderboard.md)**
 
 ## ⚙️ How It Works
 
