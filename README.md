@@ -26,31 +26,6 @@ Points are collected automatically from all 6 participating repositories when PR
 4. Points are written to `leaderboard.json` in **this repo**
 5. `leaderboard.md` is regenerated with both team and individual rankings
 
-## 🗃️ Data File
-
-`leaderboard.json` is the single source of truth. Structure:
-
-```json
-{
-  "teams": {
-    "Team 02": {
-      "points": 45,
-      "prs": 3,
-      "contributors": ["alice", "bob"],
-      "repos": ["Zaplink_frontend", "CareXpert_backend"]
-    }
-  },
-  "contributors": {
-    "alice": {
-      "points": 25,
-      "prs": 2,
-      "team": "Team 02",
-      "repos": ["Zaplink_frontend"]
-    }
-  }
-}
-```
-
 ## Points System
 
 | Level | Label | Points |
