@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Tue, 17 Feb 2026 17:51:24 GMT
+> **Last Updated:** Wed, 18 Feb 2026 04:57:54 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -9,7 +9,7 @@
 
 | Rank | Team | Total Points | PRs Merged | Members | Active Repos | Contributors |
 |------|------|:------------:|:----------:|:-------:|--------------|---------------|
-| 🥇 | **Team 01** | 25 | 2 | 1 | Zaplink_frontend, Code_duel_frontend | @jadejakrishnapal |
+| 🥇 | **Team 01** | 30 | 3 | 1 | Zaplink_frontend, Code_duel_frontend | @jadejakrishnapal |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | Rank | GitHub | Team | Points | PRs Merged | Repos |
 |------|--------|------|:------:|:----------:|-------|
-| 🥇 | @jadejakrishnapal | Team 01 | 25 | 2 | Zaplink_frontend, Code_duel_frontend |
+| 🥇 | @jadejakrishnapal | Team 01 | 30 | 3 | Zaplink_frontend, Code_duel_frontend |
 
 ---
 

@@ -1,8 +1,8 @@
 {
   "teams": {
     "Team 01": {
-      "points": 25,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "contributors": [
         "jadejakrishnapal"
       ],
@@ -14,8 +14,8 @@
   },
   "contributors": {
     "jadejakrishnapal": {
-      "points": 25,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "team": "Team 01",
       "repos": [
         "Zaplink_frontend",
