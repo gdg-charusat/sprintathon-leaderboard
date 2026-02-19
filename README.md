@@ -1,7 +1,7 @@
- #🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
+# 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
 This repository is the **central leaderboard** for the GDG CHARUSAT Sprintathon.  
-Points are collected automatically from all 6 participating repositories when PRs are merged.
+Points are collected automatically from all 9 participating repositories when PRs are merged.
 
 ## 📊 Live Leaderboard
 
@@ -17,10 +17,13 @@ Points are collected automatically from all 6 participating repositories when PR
 | [CareXpert_backend](https://github.com/gdg-charusat/CareXpert_backend) | Backend |
 | [Code_duel_frontend](https://github.com/gdg-charusat/Code_duel_frontend) | Frontend |
 | [Code_duel_backend](https://github.com/gdg-charusat/Code_duel_backend) | Backend |
+| [FMEA_SupplyChain](https://github.com/gdg-charusat/FMEA_SupplyChain) | ML |
+| [super-roast-bot](https://github.com/gdg-charusat/super-roast-bot) | ML |
+| [PDF_QA_Bot](https://github.com/gdg-charusat/PDF_QA_Bot) | ML |
 
 ## ⚙️ How It Works
 
-1. A contributor opens a PR in any of the 6 repos with their **Team Number** in the description
+1. A contributor opens a PR in any of the 9 repos with their **Team Number** in the description
 2. The PR Validator bot labels and validates the PR automatically
 3. When an admin merges the PR, the Points Calculator workflow fires
 4. Points are written to `leaderboard.json` in **this repo**
