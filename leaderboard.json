@@ -1,24 +1,4 @@
 {
-  "teams": {
-    "Team 01": {
-      "points": 20,
-      "prs": 1,
-      "contributors": [
-        "jadejakrishnapal"
-      ],
-      "repos": [
-        "Zaplink_frontend"
-      ]
-    }
-  },
-  "contributors": {
-    "jadejakrishnapal": {
-      "points": 20,
-      "prs": 1,
-      "team": "Team 01",
-      "repos": [
-        "Zaplink_frontend"
-      ]
-    }
-  }
+  "teams": {},
+  "contributors": {}
 }
