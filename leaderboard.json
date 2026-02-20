@@ -1,4 +1,24 @@
 {
-  "teams": {},
-  "contributors": {}
+  "teams": {
+    "Team 01": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "gdgcharusat"
+      ],
+      "repos": [
+        "Code_duel_frontend"
+      ]
+    }
+  },
+  "contributors": {
+    "gdgcharusat": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 01",
+      "repos": [
+        "Code_duel_frontend"
+      ]
+    }
+  }
 }
