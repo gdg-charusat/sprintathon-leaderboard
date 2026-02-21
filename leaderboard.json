@@ -81,6 +81,16 @@
       "repos": [
         "Zaplink_frontend"
       ]
+    },
+    "Team 052": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "atul-upadhyay-7"
+      ],
+      "repos": [
+        "Zaplink_frontend"
+      ]
     }
   },
   "contributors": {
@@ -146,6 +156,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 149",
+      "repos": [
+        "Zaplink_frontend"
+      ]
+    },
+    "atul-upadhyay-7": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 052",
       "repos": [
         "Zaplink_frontend"
       ]
