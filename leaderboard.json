@@ -51,6 +51,16 @@
       "repos": [
         "super-roast-bot"
       ]
+    },
+    "Team 80": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "Ommodi07"
+      ],
+      "repos": [
+        "FMEA_SupplyChain"
+      ]
     }
   },
   "contributors": {
@@ -94,6 +104,14 @@
       "team": "Team 087",
       "repos": [
         "super-roast-bot"
+      ]
+    },
+    "Ommodi07": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 80",
+      "repos": [
+        "FMEA_SupplyChain"
       ]
     }
   }
