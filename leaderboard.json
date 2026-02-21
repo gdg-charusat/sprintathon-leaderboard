@@ -71,6 +71,16 @@
       "repos": [
         "PDF_QA_Bot"
       ]
+    },
+    "Team 149": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "RutviShah2"
+      ],
+      "repos": [
+        "Zaplink_frontend"
+      ]
     }
   },
   "contributors": {
@@ -130,6 +140,14 @@
       "team": "Team 120",
       "repos": [
         "PDF_QA_Bot"
+      ]
+    },
+    "RutviShah2": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 149",
+      "repos": [
+        "Zaplink_frontend"
       ]
     }
   }
