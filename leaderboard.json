@@ -91,6 +91,16 @@
       "repos": [
         "Zaplink_frontend"
       ]
+    },
+    "Team 123": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "princedesai012"
+      ],
+      "repos": [
+        "Zaplink_backend"
+      ]
     }
   },
   "contributors": {
@@ -166,6 +176,14 @@
       "team": "Team 052",
       "repos": [
         "Zaplink_frontend"
+      ]
+    },
+    "princedesai012": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 123",
+      "repos": [
+        "Zaplink_backend"
       ]
     }
   }
