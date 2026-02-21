@@ -182,6 +182,16 @@
       "repos": [
         "Code_duel_frontend"
       ]
+    },
+    "Team 143": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "HEETMEHTA18"
+      ],
+      "repos": [
+        "Zaplink_frontend"
+      ]
     }
   },
   "contributors": {
@@ -335,6 +345,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 124",
+      "repos": [
+        "Zaplink_frontend"
+      ]
+    },
+    "HEETMEHTA18": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 143",
       "repos": [
         "Zaplink_frontend"
       ]
