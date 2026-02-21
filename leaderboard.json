@@ -31,6 +31,16 @@
       "repos": [
         "PDF_QA_Bot"
       ]
+    },
+    "Team 177": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "BhavyaManvar"
+      ],
+      "repos": [
+        "super-roast-bot"
+      ]
     }
   },
   "contributors": {
@@ -58,6 +68,14 @@
       "team": "Team 152",
       "repos": [
         "PDF_QA_Bot"
+      ]
+    },
+    "BhavyaManvar": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 177",
+      "repos": [
+        "super-roast-bot"
       ]
     }
   }
