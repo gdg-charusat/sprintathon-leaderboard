@@ -1,6 +1,24 @@
 {
   "teams": {
+    "Team 124": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "PrinceDiyora"
+      ],
+      "repos": [
+        "Zaplink_frontend"
+      ]
+    }
   },
   "contributors": {
+    "PrinceDiyora": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 124",
+      "repos": [
+        "Zaplink_frontend"
+      ]
+    }
   }
 }
