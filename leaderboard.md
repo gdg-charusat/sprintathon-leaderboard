@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Sat, 21 Feb 2026 19:47:05 GMT
+> **Last Updated:** Sat, 21 Feb 2026 19:49:12 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -23,6 +23,7 @@
 | 12. | **Team 101** | 5 | 1 | 1 | CareXpert_frontend | @ohmbhatia |
 | 13. | **Team 119** | 5 | 1 | 1 | CareXpert_frontend | @HeerGhevariya |
 | 14. | **Team 109** | 5 | 1 | 1 | CareXpert_backend | @manthan2876 |
+| 15. | **Team 065** | 5 | 1 | 1 | CareXpert_backend | @Ashok089 |
 
 ---
 
@@ -44,6 +45,7 @@
 | 12. | @ohmbhatia | Team 101 | 5 | 1 | CareXpert_frontend |
 | 13. | @HeerGhevariya | Team 119 | 5 | 1 | CareXpert_frontend |
 | 14. | @manthan2876 | Team 109 | 5 | 1 | CareXpert_backend |
+| 15. | @Ashok089 | Team 065 | 5 | 1 | CareXpert_backend |
 
 ---
 

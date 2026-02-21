@@ -141,6 +141,16 @@
       "repos": [
         "CareXpert_backend"
       ]
+    },
+    "Team 065": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "Ashok089"
+      ],
+      "repos": [
+        "CareXpert_backend"
+      ]
     }
   },
   "contributors": {
@@ -254,6 +264,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 109",
+      "repos": [
+        "CareXpert_backend"
+      ]
+    },
+    "Ashok089": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 065",
       "repos": [
         "CareXpert_backend"
       ]
