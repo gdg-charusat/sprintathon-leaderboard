@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Sat, 21 Feb 2026 16:59:22 GMT
+> **Last Updated:** Sat, 21 Feb 2026 17:49:03 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -11,10 +11,11 @@
 |------|------|:------------:|:----------:|:-------:|--------------|---------------|
 | 🥇 | **Team 173** | 60 | 3 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot | @vasu-CE |
 | 🥈 | **Team 177** | 20 | 1 | 1 | super-roast-bot | @BhavyaManvar |
-| 🥉 | **Team 124** | 5 | 1 | 1 | Zaplink_frontend | @PrinceDiyora |
-| 4. | **Team 152** | 5 | 1 | 1 | PDF_QA_Bot | @Krish3017 |
-| 5. | **Team 087** | 5 | 1 | 1 | super-roast-bot | @Ansh-dhanani |
-| 6. | **Team 80** | 5 | 1 | 1 | FMEA_SupplyChain | @Ommodi07 |
+| 🥉 | **Team 120** | 20 | 1 | 1 | PDF_QA_Bot | @vraj826 |
+| 4. | **Team 124** | 5 | 1 | 1 | Zaplink_frontend | @PrinceDiyora |
+| 5. | **Team 152** | 5 | 1 | 1 | PDF_QA_Bot | @Krish3017 |
+| 6. | **Team 087** | 5 | 1 | 1 | super-roast-bot | @Ansh-dhanani |
+| 7. | **Team 80** | 5 | 1 | 1 | FMEA_SupplyChain | @Ommodi07 |
 
 ---
 
@@ -24,10 +25,11 @@
 |------|--------|------|:------:|:----------:|-------|
 | 🥇 | @vasu-CE | Team 173 | 60 | 3 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot |
 | 🥈 | @BhavyaManvar | Team 177 | 20 | 1 | super-roast-bot |
-| 🥉 | @PrinceDiyora | Team 124 | 5 | 1 | Zaplink_frontend |
-| 4. | @Krish3017 | Team 152 | 5 | 1 | PDF_QA_Bot |
-| 5. | @Ansh-dhanani | Team 087 | 5 | 1 | super-roast-bot |
-| 6. | @Ommodi07 | Team 80 | 5 | 1 | FMEA_SupplyChain |
+| 🥉 | @vraj826 | Team 120 | 20 | 1 | PDF_QA_Bot |
+| 4. | @PrinceDiyora | Team 124 | 5 | 1 | Zaplink_frontend |
+| 5. | @Krish3017 | Team 152 | 5 | 1 | PDF_QA_Bot |
+| 6. | @Ansh-dhanani | Team 087 | 5 | 1 | super-roast-bot |
+| 7. | @Ommodi07 | Team 80 | 5 | 1 | FMEA_SupplyChain |
 
 ---
 

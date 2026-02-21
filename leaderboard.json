@@ -61,6 +61,16 @@
       "repos": [
         "FMEA_SupplyChain"
       ]
+    },
+    "Team 120": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "vraj826"
+      ],
+      "repos": [
+        "PDF_QA_Bot"
+      ]
     }
   },
   "contributors": {
@@ -112,6 +122,14 @@
       "team": "Team 80",
       "repos": [
         "FMEA_SupplyChain"
+      ]
+    },
+    "vraj826": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 120",
+      "repos": [
+        "PDF_QA_Bot"
       ]
     }
   }
