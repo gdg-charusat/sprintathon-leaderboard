@@ -171,6 +171,16 @@
       "repos": [
         "Code_duel_frontend"
       ]
+    },
+    "Team 167": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "devvpin"
+      ],
+      "repos": [
+        "Code_duel_frontend"
+      ]
     }
   },
   "contributors": {
@@ -308,6 +318,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 150",
+      "repos": [
+        "Code_duel_frontend"
+      ]
+    },
+    "devvpin": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 167",
       "repos": [
         "Code_duel_frontend"
       ]
