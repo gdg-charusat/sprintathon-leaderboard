@@ -21,6 +21,16 @@
         "Code_duel_backend",
         "PDF_QA_Bot"
       ]
+    },
+    "Team 152": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "Krish3017"
+      ],
+      "repos": [
+        "PDF_QA_Bot"
+      ]
     }
   },
   "contributors": {
@@ -39,6 +49,14 @@
       "repos": [
         "Code_duel_frontend",
         "Code_duel_backend",
+        "PDF_QA_Bot"
+      ]
+    },
+    "Krish3017": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 152",
+      "repos": [
         "PDF_QA_Bot"
       ]
     }
