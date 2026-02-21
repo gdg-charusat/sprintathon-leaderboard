@@ -111,6 +111,16 @@
       "repos": [
         "CareXpert_frontend"
       ]
+    },
+    "Team 119": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "HeerGhevariya"
+      ],
+      "repos": [
+        "CareXpert_frontend"
+      ]
     }
   },
   "contributors": {
@@ -200,6 +210,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 101",
+      "repos": [
+        "CareXpert_frontend"
+      ]
+    },
+    "HeerGhevariya": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 119",
       "repos": [
         "CareXpert_frontend"
       ]
