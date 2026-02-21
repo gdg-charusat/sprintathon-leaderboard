@@ -121,6 +121,16 @@
       "repos": [
         "CareXpert_frontend"
       ]
+    },
+    "Team 125": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "Diyap235"
+      ],
+      "repos": [
+        "CareXpert_frontend"
+      ]
     }
   },
   "contributors": {
@@ -218,6 +228,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 119",
+      "repos": [
+        "CareXpert_frontend"
+      ]
+    },
+    "Diyap235": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 125",
       "repos": [
         "CareXpert_frontend"
       ]
