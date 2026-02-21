@@ -161,6 +161,16 @@
       "repos": [
         "CareXpert_backend"
       ]
+    },
+    "Team 150": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "Akshat14z"
+      ],
+      "repos": [
+        "Code_duel_frontend"
+      ]
     }
   },
   "contributors": {
@@ -292,6 +302,14 @@
       "team": "Team 082",
       "repos": [
         "CareXpert_backend"
+      ]
+    },
+    "Akshat14z": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 150",
+      "repos": [
+        "Code_duel_frontend"
       ]
     }
   }
