@@ -193,6 +193,16 @@
       "repos": [
         "Zaplink_frontend"
       ]
+    },
+    "Team 153": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "unnatii14"
+      ],
+      "repos": [
+        "PDF_QA_Bot"
+      ]
     }
   },
   "contributors": {
@@ -357,6 +367,14 @@
       "team": "Team 143",
       "repos": [
         "Zaplink_frontend"
+      ]
+    },
+    "unnatii14": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 153",
+      "repos": [
+        "PDF_QA_Bot"
       ]
     }
   }
