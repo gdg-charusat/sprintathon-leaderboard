@@ -165,13 +165,14 @@
       ]
     },
     "Team 150": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
         "Akshat14z"
       ],
       "repos": [
-        "Code_duel_frontend"
+        "Code_duel_frontend",
+        "PDF_QA_Bot"
       ]
     },
     "Team 167": {
@@ -338,11 +339,12 @@
       ]
     },
     "Akshat14z": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "team": "Team 150",
       "repos": [
-        "Code_duel_frontend"
+        "Code_duel_frontend",
+        "PDF_QA_Bot"
       ]
     },
     "devvpin": {
