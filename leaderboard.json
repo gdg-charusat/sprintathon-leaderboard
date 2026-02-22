@@ -144,13 +144,14 @@
       ]
     },
     "Team 065": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
         "Ashok089"
       ],
       "repos": [
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "CareXpert_frontend"
       ]
     },
     "Team 082": {
@@ -310,11 +311,12 @@
       ]
     },
     "Ashok089": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "team": "Team 065",
       "repos": [
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "CareXpert_frontend"
       ]
     },
     "dhruvpatel848": {
