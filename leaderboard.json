@@ -104,8 +104,8 @@
       ]
     },
     "Team 101": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "contributors": [
         "ohmbhatia"
       ],
@@ -279,8 +279,8 @@
       ]
     },
     "ohmbhatia": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "team": "Team 101",
       "repos": [
         "CareXpert_frontend"
