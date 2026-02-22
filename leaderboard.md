@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Sun, 22 Feb 2026 12:01:34 GMT
+> **Last Updated:** Sun, 22 Feb 2026 12:19:11 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -10,10 +10,10 @@
 | Rank | Team | Total Points | PRs Merged | Members | Active Repos | Contributors |
 |------|------|:------------:|:----------:|:-------:|--------------|---------------|
 | 🥇 | **Team 173** | 60 | 3 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot | @vasu-CE |
-| 🥈 | **Team 065** | 25 | 2 | 1 | CareXpert_backend, CareXpert_frontend | @Ashok089 |
-| 🥉 | **Team 177** | 20 | 1 | 1 | super-roast-bot | @BhavyaManvar |
-| 4. | **Team 120** | 20 | 1 | 1 | PDF_QA_Bot | @vraj826 |
-| 5. | **Team 125** | 20 | 1 | 1 | CareXpert_frontend | @Diyap235 |
+| 🥈 | **Team 125** | 25 | 2 | 1 | CareXpert_frontend | @Diyap235 |
+| 🥉 | **Team 065** | 25 | 2 | 1 | CareXpert_backend, CareXpert_frontend | @Ashok089 |
+| 4. | **Team 177** | 20 | 1 | 1 | super-roast-bot | @BhavyaManvar |
+| 5. | **Team 120** | 20 | 1 | 1 | PDF_QA_Bot | @vraj826 |
 | 6. | **Team 167** | 20 | 1 | 1 | Code_duel_frontend | @devvpin |
 | 7. | **Team 143** | 20 | 1 | 1 | Zaplink_frontend | @HEETMEHTA18 |
 | 8. | **Team 124** | 10 | 2 | 2 | Zaplink_frontend | @PrinceDiyora, @kunj01 |
@@ -36,10 +36,10 @@
 | Rank | GitHub | Team | Points | PRs Merged | Repos |
 |------|--------|------|:------:|:----------:|-------|
 | 🥇 | @vasu-CE | Team 173 | 60 | 3 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot |
-| 🥈 | @Ashok089 | Team 065 | 25 | 2 | CareXpert_backend, CareXpert_frontend |
-| 🥉 | @BhavyaManvar | Team 177 | 20 | 1 | super-roast-bot |
-| 4. | @vraj826 | Team 120 | 20 | 1 | PDF_QA_Bot |
-| 5. | @Diyap235 | Team 125 | 20 | 1 | CareXpert_frontend |
+| 🥈 | @Diyap235 | Team 125 | 25 | 2 | CareXpert_frontend |
+| 🥉 | @Ashok089 | Team 065 | 25 | 2 | CareXpert_backend, CareXpert_frontend |
+| 4. | @BhavyaManvar | Team 177 | 20 | 1 | super-roast-bot |
+| 5. | @vraj826 | Team 120 | 20 | 1 | PDF_QA_Bot |
 | 6. | @devvpin | Team 167 | 20 | 1 | Code_duel_frontend |
 | 7. | @HEETMEHTA18 | Team 143 | 20 | 1 | Zaplink_frontend |
 | 8. | @RutviShah2 | Team 149 | 10 | 2 | Zaplink_frontend |
