@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Sun, 22 Feb 2026 12:19:11 GMT
+> **Last Updated:** Sun, 22 Feb 2026 12:22:24 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -10,7 +10,7 @@
 | Rank | Team | Total Points | PRs Merged | Members | Active Repos | Contributors |
 |------|------|:------------:|:----------:|:-------:|--------------|---------------|
 | 🥇 | **Team 173** | 60 | 3 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot | @vasu-CE |
-| 🥈 | **Team 125** | 25 | 2 | 1 | CareXpert_frontend | @Diyap235 |
+| 🥈 | **Team 125** | 45 | 3 | 1 | CareXpert_frontend | @Diyap235 |
 | 🥉 | **Team 065** | 25 | 2 | 1 | CareXpert_backend, CareXpert_frontend | @Ashok089 |
 | 4. | **Team 177** | 20 | 1 | 1 | super-roast-bot | @BhavyaManvar |
 | 5. | **Team 120** | 20 | 1 | 1 | PDF_QA_Bot | @vraj826 |
@@ -36,7 +36,7 @@
 | Rank | GitHub | Team | Points | PRs Merged | Repos |
 |------|--------|------|:------:|:----------:|-------|
 | 🥇 | @vasu-CE | Team 173 | 60 | 3 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot |
-| 🥈 | @Diyap235 | Team 125 | 25 | 2 | CareXpert_frontend |
+| 🥈 | @Diyap235 | Team 125 | 45 | 3 | CareXpert_frontend |
 | 🥉 | @Ashok089 | Team 065 | 25 | 2 | CareXpert_backend, CareXpert_frontend |
 | 4. | @BhavyaManvar | Team 177 | 20 | 1 | super-roast-bot |
 | 5. | @vraj826 | Team 120 | 20 | 1 | PDF_QA_Bot |
