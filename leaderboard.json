@@ -315,6 +315,16 @@
       "repos": [
         "CareXpert_frontend"
       ]
+    },
+    "Team 066": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "chaitany851P"
+      ],
+      "repos": [
+        "Code_duel_backend"
+      ]
     }
   },
   "contributors": {
@@ -603,6 +613,14 @@
       "team": "Team 161",
       "repos": [
         "CareXpert_frontend"
+      ]
+    },
+    "chaitany851P": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 066",
+      "repos": [
+        "Code_duel_backend"
       ]
     }
   }
