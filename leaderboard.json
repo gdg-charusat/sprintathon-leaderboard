@@ -404,6 +404,16 @@
       "repos": [
         "CareXpert_backend"
       ]
+    },
+    "Team 138": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "Vaibhavi-1107"
+      ],
+      "repos": [
+        "CareXpert_frontend"
+      ]
     }
   },
   "contributors": {
@@ -810,6 +820,14 @@
       "team": "Team 83",
       "repos": [
         "CareXpert_backend"
+      ]
+    },
+    "Vaibhavi-1107": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 138",
+      "repos": [
+        "CareXpert_frontend"
       ]
     }
   }
