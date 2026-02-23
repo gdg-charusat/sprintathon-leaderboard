@@ -217,6 +217,16 @@
       "repos": [
         "PDF_QA_Bot"
       ]
+    },
+    "Team 113": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "7JankiPanchal"
+      ],
+      "repos": [
+        "Code_duel_frontend"
+      ]
     }
   },
   "contributors": {
@@ -412,6 +422,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 123",
+      "repos": [
+        "Code_duel_frontend"
+      ]
+    },
+    "7JankiPanchal": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 113",
       "repos": [
         "Code_duel_frontend"
       ]
