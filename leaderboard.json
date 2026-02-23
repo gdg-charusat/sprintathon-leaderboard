@@ -204,6 +204,16 @@
       "repos": [
         "PDF_QA_Bot"
       ]
+    },
+    "Team 135": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "JainiSolanki"
+      ],
+      "repos": [
+        "PDF_QA_Bot"
+      ]
     }
   },
   "contributors": {
@@ -375,6 +385,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 153",
+      "repos": [
+        "PDF_QA_Bot"
+      ]
+    },
+    "JainiSolanki": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 135",
       "repos": [
         "PDF_QA_Bot"
       ]
