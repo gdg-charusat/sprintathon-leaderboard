@@ -376,6 +376,16 @@
       "repos": [
         "Zaplink_backend"
       ]
+    },
+    "Team 146": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "Dhruvi-kanabar30"
+      ],
+      "repos": [
+        "Zaplink_backend"
+      ]
     }
   },
   "contributors": {
@@ -738,6 +748,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 143",
+      "repos": [
+        "Zaplink_backend"
+      ]
+    },
+    "Dhruvi-kanabar30": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 146",
       "repos": [
         "Zaplink_backend"
       ]
