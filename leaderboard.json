@@ -164,8 +164,8 @@
       ]
     },
     "Team 065": {
-      "points": 25,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "contributors": [
         "Ashok089"
       ],
@@ -554,8 +554,8 @@
       ]
     },
     "Ashok089": {
-      "points": 25,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "team": "Team 065",
       "repos": [
         "CareXpert_backend",
