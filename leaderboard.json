@@ -118,13 +118,15 @@
       ]
     },
     "Team 119": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "contributors": [
-        "HeerGhevariya"
+        "HeerGhevariya",
+        "smitgoyani123"
       ],
       "repos": [
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Code_duel_frontend"
       ]
     },
     "Team 125": {
@@ -472,6 +474,14 @@
       "team": "Team 132",
       "repos": [
         "PDF_QA_Bot"
+      ]
+    },
+    "smitgoyani123": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 119",
+      "repos": [
+        "Code_duel_frontend"
       ]
     }
   }
