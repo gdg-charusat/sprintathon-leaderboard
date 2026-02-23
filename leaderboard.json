@@ -271,6 +271,16 @@
       "repos": [
         "Zaplink_frontend"
       ]
+    },
+    "Team 82": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "dhruvpatel848"
+      ],
+      "repos": [
+        "PDF_QA_Bot"
+      ]
     }
   },
   "contributors": {
@@ -400,11 +410,12 @@
       ]
     },
     "dhruvpatel848": {
-      "points": 5,
-      "prs": 1,
-      "team": "Team 082",
+      "points": 25,
+      "prs": 2,
+      "team": "Team 82",
       "repos": [
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "PDF_QA_Bot"
       ]
     },
     "Akshat14z": {
