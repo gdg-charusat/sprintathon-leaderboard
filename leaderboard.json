@@ -1,15 +1,17 @@
 {
   "teams": {
     "Team 124": {
-      "points": 35,
-      "prs": 4,
+      "points": 55,
+      "prs": 5,
       "contributors": [
         "PrinceDiyora",
-        "kunj01"
+        "kunj01",
+        "RudraDudhat"
       ],
       "repos": [
         "Zaplink_frontend",
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Zaplink_backend"
       ]
     },
     "Team 173": {
@@ -688,6 +690,14 @@
       "team": "Team 101",
       "repos": [
         "PDF_QA_Bot"
+      ]
+    },
+    "RudraDudhat": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 124",
+      "repos": [
+        "Zaplink_backend"
       ]
     }
   }
