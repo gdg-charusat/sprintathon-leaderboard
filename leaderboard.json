@@ -305,6 +305,16 @@
       "repos": [
         "Zaplink_frontend"
       ]
+    },
+    "Team 161": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "Jerry-145"
+      ],
+      "repos": [
+        "CareXpert_frontend"
+      ]
     }
   },
   "contributors": {
@@ -583,6 +593,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 177",
+      "repos": [
+        "CareXpert_frontend"
+      ]
+    },
+    "Jerry-145": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 161",
       "repos": [
         "CareXpert_frontend"
       ]
