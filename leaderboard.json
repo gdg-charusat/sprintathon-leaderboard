@@ -94,13 +94,15 @@
       ]
     },
     "Team 123": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "contributors": [
-        "princedesai012"
+        "princedesai012",
+        "rishi-sheladiya-26"
       ],
       "repos": [
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "Code_duel_frontend"
       ]
     },
     "Team 101": {
@@ -404,6 +406,14 @@
       "team": "Team 135",
       "repos": [
         "PDF_QA_Bot"
+      ]
+    },
+    "rishi-sheladiya-26": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 123",
+      "repos": [
+        "Code_duel_frontend"
       ]
     }
   }
