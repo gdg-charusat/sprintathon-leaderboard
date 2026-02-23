@@ -387,13 +387,15 @@
       ]
     },
     "Team 146": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
-        "Dhruvi-kanabar30"
+        "Dhruvi-kanabar30",
+        "Ronit069"
       ],
       "repos": [
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "CareXpert_backend"
       ]
     },
     "Team 170": {
@@ -831,6 +833,14 @@
       "team": "Team 138",
       "repos": [
         "CareXpert_frontend"
+      ]
+    },
+    "Ronit069": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 146",
+      "repos": [
+        "CareXpert_backend"
       ]
     }
   }
