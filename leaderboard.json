@@ -265,13 +265,14 @@
       ]
     },
     "Team 132": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "contributors": [
         "Mathakiya-Amal"
       ],
       "repos": [
-        "PDF_QA_Bot"
+        "PDF_QA_Bot",
+        "CareXpert_frontend"
       ]
     },
     "Team 114": {
@@ -654,11 +655,12 @@
       ]
     },
     "Mathakiya-Amal": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "team": "Team 132",
       "repos": [
-        "PDF_QA_Bot"
+        "PDF_QA_Bot",
+        "CareXpert_frontend"
       ]
     },
     "smitgoyani123": {
