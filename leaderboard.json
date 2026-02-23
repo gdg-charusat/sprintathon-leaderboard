@@ -53,13 +53,14 @@
       ]
     },
     "Team 087": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
         "Ansh-dhanani"
       ],
       "repos": [
-        "super-roast-bot"
+        "super-roast-bot",
+        "Zaplink_backend"
       ]
     },
     "Team 80": {
@@ -404,11 +405,12 @@
       ]
     },
     "Ansh-dhanani": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "team": "Team 087",
       "repos": [
-        "super-roast-bot"
+        "super-roast-bot",
+        "Zaplink_backend"
       ]
     },
     "Ommodi07": {
