@@ -130,13 +130,15 @@
       ]
     },
     "Team 125": {
-      "points": 45,
-      "prs": 3,
+      "points": 65,
+      "prs": 4,
       "contributors": [
-        "Diyap235"
+        "Diyap235",
+        "Yashvi29-power"
       ],
       "repos": [
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Zaplink_frontend"
       ]
     },
     "Team 109": {
@@ -527,6 +529,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 072",
+      "repos": [
+        "Zaplink_frontend"
+      ]
+    },
+    "Yashvi29-power": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 125",
       "repos": [
         "Zaplink_frontend"
       ]
