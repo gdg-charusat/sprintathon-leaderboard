@@ -111,13 +111,15 @@
       ]
     },
     "Team 101": {
-      "points": 10,
-      "prs": 2,
+      "points": 15,
+      "prs": 3,
       "contributors": [
-        "ohmbhatia"
+        "ohmbhatia",
+        "hetrakholiya11"
       ],
       "repos": [
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "PDF_QA_Bot"
       ]
     },
     "Team 119": {
@@ -676,6 +678,14 @@
       "points": 20,
       "prs": 1,
       "team": "Team 165",
+      "repos": [
+        "PDF_QA_Bot"
+      ]
+    },
+    "hetrakholiya11": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 101",
       "repos": [
         "PDF_QA_Bot"
       ]

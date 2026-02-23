@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Mon, 23 Feb 2026 16:43:07 GMT
+> **Last Updated:** Mon, 23 Feb 2026 16:53:09 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -27,9 +27,9 @@
 | 16. | **Team 168** | 20 | 1 | 1 | Code_duel_backend | @mayankpadmani |
 | 17. | **Team 165** | 20 | 1 | 1 | PDF_QA_Bot | @satanismit |
 | 18. | **Team 052** | 15 | 3 | 1 | Zaplink_frontend | @atul-upadhyay-7 |
-| 19. | **Team 149** | 10 | 2 | 1 | Zaplink_frontend | @RutviShah2 |
-| 20. | **Team 123** | 10 | 2 | 2 | Zaplink_backend, Code_duel_frontend | @princedesai012, @rishi-sheladiya-26 |
-| 21. | **Team 101** | 10 | 2 | 1 | CareXpert_frontend | @ohmbhatia |
+| 19. | **Team 101** | 15 | 3 | 2 | CareXpert_frontend, PDF_QA_Bot | @ohmbhatia, @hetrakholiya11 |
+| 20. | **Team 149** | 10 | 2 | 1 | Zaplink_frontend | @RutviShah2 |
+| 21. | **Team 123** | 10 | 2 | 2 | Zaplink_backend, Code_duel_frontend | @princedesai012, @rishi-sheladiya-26 |
 | 22. | **Team 119** | 10 | 2 | 2 | CareXpert_frontend, Code_duel_frontend | @HeerGhevariya, @smitgoyani123 |
 | 23. | **Team 087** | 5 | 1 | 1 | super-roast-bot | @Ansh-dhanani |
 | 24. | **Team 80** | 5 | 1 | 1 | FMEA_SupplyChain | @Ommodi07 |
@@ -89,6 +89,7 @@
 | 37. | @hindochahitarth | Team 137 | 5 | 1 | Zaplink_frontend |
 | 38. | @ybthummar | Team 177 | 5 | 1 | CareXpert_frontend |
 | 39. | @24cs062 | Team 188 | 5 | 1 | Zaplink_backend |
+| 40. | @hetrakholiya11 | Team 101 | 5 | 1 | PDF_QA_Bot |
 
 ---
 
