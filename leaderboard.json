@@ -85,13 +85,14 @@
       ]
     },
     "Team 149": {
-      "points": 10,
-      "prs": 2,
+      "points": 15,
+      "prs": 3,
       "contributors": [
         "RutviShah2"
       ],
       "repos": [
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "CareXpert_frontend"
       ]
     },
     "Team 052": {
@@ -494,11 +495,12 @@
       ]
     },
     "RutviShah2": {
-      "points": 10,
-      "prs": 2,
+      "points": 15,
+      "prs": 3,
       "team": "Team 149",
       "repos": [
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "CareXpert_frontend"
       ]
     },
     "atul-upadhyay-7": {
