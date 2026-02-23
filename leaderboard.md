@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Mon, 23 Feb 2026 17:07:59 GMT
+> **Last Updated:** Mon, 23 Feb 2026 17:12:11 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -12,7 +12,7 @@
 | 🥇 | **Team 173** | 85 | 5 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend | @vasu-CE |
 | 🥈 | **Team 125** | 70 | 5 | 2 | CareXpert_frontend, Zaplink_frontend | @Diyap235, @Yashvi29-power |
 | 🥉 | **Team 124** | 55 | 5 | 3 | Zaplink_frontend, CareXpert_frontend, Zaplink_backend | @PrinceDiyora, @kunj01, @RudraDudhat |
-| 4. | **Team 152** | 40 | 5 | 1 | PDF_QA_Bot, Code_duel_frontend | @Krish3017 |
+| 4. | **Team 152** | 45 | 6 | 2 | PDF_QA_Bot, Code_duel_frontend, Zaplink_backend | @Krish3017, @Talaviya-Sarthak |
 | 5. | **Team 135** | 40 | 2 | 2 | PDF_QA_Bot | @JainiSolanki, @HetviHR |
 | 6. | **Team 165** | 40 | 2 | 1 | PDF_QA_Bot | @satanismit |
 | 7. | **Team 177** | 25 | 2 | 2 | super-roast-bot, CareXpert_frontend | @BhavyaManvar, @ybthummar |
@@ -91,6 +91,7 @@
 | 39. | @ybthummar | Team 177 | 5 | 1 | CareXpert_frontend |
 | 40. | @24cs062 | Team 188 | 5 | 1 | Zaplink_backend |
 | 41. | @hetrakholiya11 | Team 101 | 5 | 1 | PDF_QA_Bot |
+| 42. | @Talaviya-Sarthak | Team 152 | 5 | 1 | Zaplink_backend |
 
 ---
 

@@ -28,14 +28,16 @@
       ]
     },
     "Team 152": {
-      "points": 40,
-      "prs": 5,
+      "points": 45,
+      "prs": 6,
       "contributors": [
-        "Krish3017"
+        "Krish3017",
+        "Talaviya-Sarthak"
       ],
       "repos": [
         "PDF_QA_Bot",
-        "Code_duel_frontend"
+        "Code_duel_frontend",
+        "Zaplink_backend"
       ]
     },
     "Team 177": {
@@ -696,6 +698,14 @@
       "points": 20,
       "prs": 1,
       "team": "Team 124",
+      "repos": [
+        "Zaplink_backend"
+      ]
+    },
+    "Talaviya-Sarthak": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 152",
       "repos": [
         "Zaplink_backend"
       ]
