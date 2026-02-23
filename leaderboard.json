@@ -184,14 +184,16 @@
       ]
     },
     "Team 150": {
-      "points": 25,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "contributors": [
-        "Akshat14z"
+        "Akshat14z",
+        "dhrumil246"
       ],
       "repos": [
         "Code_duel_frontend",
-        "PDF_QA_Bot"
+        "PDF_QA_Bot",
+        "CareXpert_backend"
       ]
     },
     "Team 167": {
@@ -758,6 +760,14 @@
       "team": "Team 146",
       "repos": [
         "Zaplink_backend"
+      ]
+    },
+    "dhrumil246": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 150",
+      "repos": [
+        "CareXpert_backend"
       ]
     }
   }
