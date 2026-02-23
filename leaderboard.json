@@ -41,8 +41,8 @@
       ]
     },
     "Team 177": {
-      "points": 25,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "contributors": [
         "BhavyaManvar",
         "ybthummar"
@@ -447,11 +447,12 @@
       ]
     },
     "BhavyaManvar": {
-      "points": 20,
-      "prs": 1,
+      "points": 40,
+      "prs": 2,
       "team": "Team 177",
       "repos": [
-        "super-roast-bot"
+        "super-roast-bot",
+        "CareXpert_frontend"
       ]
     },
     "Ansh-dhanani": {
