@@ -28,8 +28,8 @@
       ]
     },
     "Team 152": {
-      "points": 45,
-      "prs": 6,
+      "points": 65,
+      "prs": 7,
       "contributors": [
         "Krish3017",
         "Talaviya-Sarthak"
@@ -37,7 +37,8 @@
       "repos": [
         "PDF_QA_Bot",
         "Code_duel_frontend",
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "CareXpert_backend"
       ]
     },
     "Team 177": {
@@ -760,11 +761,12 @@
       ]
     },
     "Talaviya-Sarthak": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "team": "Team 152",
       "repos": [
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "CareXpert_backend"
       ]
     },
     "DeepPatel4505": {
