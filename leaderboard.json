@@ -325,6 +325,16 @@
       "repos": [
         "Code_duel_backend"
       ]
+    },
+    "Team 168": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "mayankpadmani"
+      ],
+      "repos": [
+        "Code_duel_backend"
+      ]
     }
   },
   "contributors": {
@@ -619,6 +629,14 @@
       "points": 20,
       "prs": 1,
       "team": "Team 066",
+      "repos": [
+        "Code_duel_backend"
+      ]
+    },
+    "mayankpadmani": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 168",
       "repos": [
         "Code_duel_backend"
       ]
