@@ -352,8 +352,8 @@
       ]
     },
     "Team 165": {
-      "points": 20,
-      "prs": 1,
+      "points": 40,
+      "prs": 2,
       "contributors": [
         "satanismit"
       ],
@@ -677,8 +677,8 @@
       ]
     },
     "satanismit": {
-      "points": 20,
-      "prs": 1,
+      "points": 40,
+      "prs": 2,
       "team": "Team 165",
       "repos": [
         "PDF_QA_Bot"
