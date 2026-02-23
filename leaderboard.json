@@ -186,8 +186,8 @@
       ]
     },
     "Team 150": {
-      "points": 30,
-      "prs": 3,
+      "points": 50,
+      "prs": 4,
       "contributors": [
         "Akshat14z",
         "dhrumil246"
@@ -812,8 +812,8 @@
       ]
     },
     "dhrumil246": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "team": "Team 150",
       "repos": [
         "CareXpert_backend"
