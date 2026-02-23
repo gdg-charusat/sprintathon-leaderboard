@@ -26,8 +26,8 @@
       ]
     },
     "Team 152": {
-      "points": 20,
-      "prs": 4,
+      "points": 40,
+      "prs": 5,
       "contributors": [
         "Krish3017"
       ],
@@ -380,8 +380,8 @@
       ]
     },
     "Krish3017": {
-      "points": 20,
-      "prs": 4,
+      "points": 40,
+      "prs": 5,
       "team": "Team 152",
       "repos": [
         "PDF_QA_Bot",
