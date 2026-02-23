@@ -250,13 +250,15 @@
       ]
     },
     "Team 163": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "contributors": [
-        "kevaljogani"
+        "kevaljogani",
+        "DaxGondaliya"
       ],
       "repos": [
-        "PDF_QA_Bot"
+        "PDF_QA_Bot",
+        "CareXpert_backend"
       ]
     },
     "Team 132": {
@@ -786,6 +788,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 170",
+      "repos": [
+        "CareXpert_backend"
+      ]
+    },
+    "DaxGondaliya": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 163",
       "repos": [
         "CareXpert_backend"
       ]
