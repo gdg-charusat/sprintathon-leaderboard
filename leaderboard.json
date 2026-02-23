@@ -243,13 +243,14 @@
       ]
     },
     "Team 113": {
-      "points": 20,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
         "7JankiPanchal"
       ],
       "repos": [
-        "Code_duel_frontend"
+        "Code_duel_frontend",
+        "CareXpert_frontend"
       ]
     },
     "Team 163": {
@@ -639,11 +640,12 @@
       ]
     },
     "7JankiPanchal": {
-      "points": 20,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "team": "Team 113",
       "repos": [
-        "Code_duel_frontend"
+        "Code_duel_frontend",
+        "CareXpert_frontend"
       ]
     },
     "kevaljogani": {
