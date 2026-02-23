@@ -227,6 +227,16 @@
       "repos": [
         "Code_duel_frontend"
       ]
+    },
+    "Team 163": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "kevaljogani"
+      ],
+      "repos": [
+        "PDF_QA_Bot"
+      ]
     }
   },
   "contributors": {
@@ -432,6 +442,14 @@
       "team": "Team 113",
       "repos": [
         "Code_duel_frontend"
+      ]
+    },
+    "kevaljogani": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 163",
+      "repos": [
+        "PDF_QA_Bot"
       ]
     }
   }
