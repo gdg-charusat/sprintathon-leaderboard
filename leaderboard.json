@@ -251,6 +251,16 @@
       "repos": [
         "PDF_QA_Bot"
       ]
+    },
+    "Team 114": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "Preetsavaliya111"
+      ],
+      "repos": [
+        "Code_duel_frontend"
+      ]
     }
   },
   "contributors": {
@@ -480,6 +490,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 119",
+      "repos": [
+        "Code_duel_frontend"
+      ]
+    },
+    "Preetsavaliya111": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 114",
       "repos": [
         "Code_duel_frontend"
       ]
