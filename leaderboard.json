@@ -238,6 +238,16 @@
       "repos": [
         "PDF_QA_Bot"
       ]
+    },
+    "Team 132": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "Mathakiya-Amal"
+      ],
+      "repos": [
+        "PDF_QA_Bot"
+      ]
     }
   },
   "contributors": {
@@ -450,6 +460,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 163",
+      "repos": [
+        "PDF_QA_Bot"
+      ]
+    },
+    "Mathakiya-Amal": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 132",
       "repos": [
         "PDF_QA_Bot"
       ]
