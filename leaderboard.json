@@ -336,6 +336,16 @@
       "repos": [
         "Code_duel_backend"
       ]
+    },
+    "Team 188": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "24cs062"
+      ],
+      "repos": [
+        "Zaplink_backend"
+      ]
     }
   },
   "contributors": {
@@ -641,6 +651,14 @@
       "team": "Team 168",
       "repos": [
         "Code_duel_backend"
+      ]
+    },
+    "24cs062": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 188",
+      "repos": [
+        "Zaplink_backend"
       ]
     }
   }
