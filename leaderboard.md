@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Mon, 23 Feb 2026 17:52:18 GMT
+> **Last Updated:** Mon, 23 Feb 2026 17:55:02 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -20,9 +20,9 @@
 | 9. | **Team 065** | 25 | 2 | 1 | CareXpert_backend, CareXpert_frontend | @Ashok089 |
 | 10. | **Team 082** | 25 | 2 | 1 | CareXpert_backend, Zaplink_backend | @dhruvpatel848 |
 | 11. | **Team 150** | 25 | 2 | 1 | Code_duel_frontend, PDF_QA_Bot | @Akshat14z |
-| 12. | **Team 120** | 20 | 1 | 1 | PDF_QA_Bot | @vraj826 |
-| 13. | **Team 167** | 20 | 1 | 1 | Code_duel_frontend | @devvpin |
-| 14. | **Team 143** | 20 | 1 | 1 | Zaplink_frontend | @HEETMEHTA18 |
+| 12. | **Team 143** | 25 | 2 | 2 | Zaplink_frontend, Zaplink_backend | @HEETMEHTA18, @AryanPatelD |
+| 13. | **Team 120** | 20 | 1 | 1 | PDF_QA_Bot | @vraj826 |
+| 14. | **Team 167** | 20 | 1 | 1 | Code_duel_frontend | @devvpin |
 | 15. | **Team 113** | 20 | 1 | 1 | Code_duel_frontend | @7JankiPanchal |
 | 16. | **Team 82** | 20 | 1 | 1 | PDF_QA_Bot | @dhruvpatel848 |
 | 17. | **Team 161** | 20 | 1 | 1 | CareXpert_frontend | @Jerry-145 |
@@ -94,6 +94,7 @@
 | 41. | @hetrakholiya11 | Team 101 | 5 | 1 | PDF_QA_Bot |
 | 42. | @Talaviya-Sarthak | Team 152 | 5 | 1 | Zaplink_backend |
 | 43. | @DeepPatel4505 | Team 83 | 5 | 1 | Zaplink_backend |
+| 44. | @AryanPatelD | Team 143 | 5 | 1 | Zaplink_backend |
 
 ---
 

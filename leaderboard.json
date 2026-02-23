@@ -205,13 +205,15 @@
       ]
     },
     "Team 143": {
-      "points": 20,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
-        "HEETMEHTA18"
+        "HEETMEHTA18",
+        "AryanPatelD"
       ],
       "repos": [
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "Zaplink_backend"
       ]
     },
     "Team 153": {
@@ -728,6 +730,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 83",
+      "repos": [
+        "Zaplink_backend"
+      ]
+    },
+    "AryanPatelD": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 143",
       "repos": [
         "Zaplink_backend"
       ]
