@@ -36,13 +36,15 @@
       ]
     },
     "Team 177": {
-      "points": 20,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
-        "BhavyaManvar"
+        "BhavyaManvar",
+        "ybthummar"
       ],
       "repos": [
-        "super-roast-bot"
+        "super-roast-bot",
+        "CareXpert_frontend"
       ]
     },
     "Team 087": {
@@ -575,6 +577,14 @@
       "team": "Team 137",
       "repos": [
         "Zaplink_frontend"
+      ]
+    },
+    "ybthummar": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 177",
+      "repos": [
+        "CareXpert_frontend"
       ]
     }
   }
