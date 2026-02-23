@@ -373,13 +373,15 @@
       ]
     },
     "Team 83": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
-        "DeepPatel4505"
+        "DeepPatel4505",
+        "NishitPDesai"
       ],
       "repos": [
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "CareXpert_backend"
       ]
     },
     "Team 146": {
@@ -796,6 +798,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 163",
+      "repos": [
+        "CareXpert_backend"
+      ]
+    },
+    "NishitPDesai": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 83",
       "repos": [
         "CareXpert_backend"
       ]
