@@ -128,8 +128,8 @@
       ]
     },
     "Team 119": {
-      "points": 10,
-      "prs": 2,
+      "points": 15,
+      "prs": 3,
       "contributors": [
         "HeerGhevariya",
         "smitgoyani123"
@@ -512,8 +512,8 @@
       ]
     },
     "HeerGhevariya": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "team": "Team 119",
       "repos": [
         "CareXpert_frontend"
