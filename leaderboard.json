@@ -417,6 +417,16 @@
       "repos": [
         "CareXpert_frontend"
       ]
+    },
+    "Team 102": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "PATELSHAIL7125"
+      ],
+      "repos": [
+        "CareXpert_frontend"
+      ]
     }
   },
   "contributors": {
@@ -841,6 +851,14 @@
       "team": "Team 146",
       "repos": [
         "CareXpert_backend"
+      ]
+    },
+    "PATELSHAIL7125": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 102",
+      "repos": [
+        "CareXpert_frontend"
       ]
     }
   }
