@@ -261,6 +261,16 @@
       "repos": [
         "Code_duel_frontend"
       ]
+    },
+    "Team 072": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "kushpatel2601"
+      ],
+      "repos": [
+        "Zaplink_frontend"
+      ]
     }
   },
   "contributors": {
@@ -500,6 +510,14 @@
       "team": "Team 114",
       "repos": [
         "Code_duel_frontend"
+      ]
+    },
+    "kushpatel2601": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 072",
+      "repos": [
+        "Zaplink_frontend"
       ]
     }
   }
