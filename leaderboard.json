@@ -346,6 +346,16 @@
       "repos": [
         "Zaplink_backend"
       ]
+    },
+    "Team 165": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "satanismit"
+      ],
+      "repos": [
+        "PDF_QA_Bot"
+      ]
     }
   },
   "contributors": {
@@ -660,6 +670,14 @@
       "team": "Team 188",
       "repos": [
         "Zaplink_backend"
+      ]
+    },
+    "satanismit": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 165",
+      "repos": [
+        "PDF_QA_Bot"
       ]
     }
   }
