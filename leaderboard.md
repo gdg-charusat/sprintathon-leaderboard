@@ -17,7 +17,7 @@
 | 6. | **Team 150** | 50 | 4 | 2 | Code_duel_frontend, PDF_QA_Bot, CareXpert_backend | @Akshat14z, @dhrumil246 |
 | 7. | **Team 177** | 45 | 3 | 2 | super-roast-bot, CareXpert_frontend | @BhavyaManvar, @ybthummar |
 | 8. | **Team 065** | 45 | 3 | 1 | CareXpert_backend, CareXpert_frontend | @Ashok089 |
-| 9. | **Team 082** | 45 | 3 | 1 | CareXpert_backend, Zaplink_backend | @dhruvpatel848 |
+| 9. | **Team 082** | 65 | 4 | 1 | CareXpert_backend, Zaplink_backend, PDF_QA_Bot | @dhruvpatel848 |
 | 10. | **Team 83** | 45 | 3 | 2 | Zaplink_backend, CareXpert_backend, PDF_QA_Bot | @DeepPatel4505, @NishitPDesai |
 | 11. | **Team 066** | 40 | 2 | 1 | Code_duel_backend, super-roast-bot | @chaitany851P |
 | 12. | **Team 165** | 40 | 2 | 1 | PDF_QA_Bot | @satanismit |
@@ -27,7 +27,7 @@
 | 16. | **Team 146** | 25 | 2 | 2 | Zaplink_backend, CareXpert_backend | @Dhruvi-kanabar30, @Ronit069 |
 | 17. | **Team 120** | 20 | 1 | 1 | PDF_QA_Bot | @vraj826 |
 | 18. | **Team 167** | 20 | 1 | 1 | Code_duel_frontend | @devvpin |
-| 19. | **Team 82** | 20 | 1 | 1 | PDF_QA_Bot | @dhruvpatel848 |
+| 19. | **TEMP_Dont consider** | 20 | 1 | 1 | PDF_QA_Bot | @dhruvpatel848 |
 | 20. | **Team 161** | 20 | 1 | 1 | CareXpert_frontend | @Jerry-145 |
 | 21. | **Team 168** | 20 | 1 | 1 | Code_duel_backend | @mayankpadmani |
 | 22. | **Team 102** | 20 | 1 | 1 | CareXpert_frontend | @PATELSHAIL7125 |
