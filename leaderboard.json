@@ -460,6 +460,16 @@
       "repos": [
         "CareXpert_backend"
       ]
+    },
+    "Team 131": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "DarshitSorathiya"
+      ],
+      "repos": [
+        "super-roast-bot"
+      ]
     }
   },
   "contributors": {
@@ -947,6 +957,14 @@
       "team": "Team 146",
       "repos": [
         "CareXpert_frontend"
+      ]
+    },
+    "DarshitSorathiya": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 131",
+      "repos": [
+        "super-roast-bot"
       ]
     }
   }
