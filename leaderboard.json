@@ -433,6 +433,16 @@
       "repos": [
         "CareXpert_frontend"
       ]
+    },
+    "Team 155": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "KavyDave18"
+      ],
+      "repos": [
+        "super-roast-bot"
+      ]
     }
   },
   "contributors": {
@@ -871,6 +881,14 @@
       "team": "Team 102",
       "repos": [
         "CareXpert_frontend"
+      ]
+    },
+    "KavyDave18": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 155",
+      "repos": [
+        "super-roast-bot"
       ]
     }
   }
