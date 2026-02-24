@@ -429,15 +429,17 @@
       ]
     },
     "Team 102": {
-      "points": 25,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "contributors": [
         "PATELSHAIL7125",
-        "MayankT1409"
+        "MayankT1409",
+        "Manthann07"
       ],
       "repos": [
         "CareXpert_frontend",
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "Zaplink_backend"
       ]
     },
     "Team 155": {
@@ -1042,6 +1044,14 @@
       "team": "Team 146",
       "repos": [
         "FMEA_SupplyChain"
+      ]
+    },
+    "Manthann07": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 102",
+      "repos": [
+        "Zaplink_backend"
       ]
     }
   }
