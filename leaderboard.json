@@ -28,8 +28,8 @@
       ]
     },
     "Team 152": {
-      "points": 95,
-      "prs": 9,
+      "points": 100,
+      "prs": 10,
       "contributors": [
         "Krish3017",
         "Talaviya-Sarthak"
@@ -826,8 +826,8 @@
       ]
     },
     "Talaviya-Sarthak": {
-      "points": 30,
-      "prs": 3,
+      "points": 35,
+      "prs": 4,
       "team": "Team 152",
       "repos": [
         "Zaplink_backend",
