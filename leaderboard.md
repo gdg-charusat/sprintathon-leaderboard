@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Tue, 24 Feb 2026 08:05:26 GMT
+> **Last Updated:** Tue, 24 Feb 2026 08:30:20 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -40,11 +40,11 @@
 | 29. | **Team 163** | 10 | 2 | 2 | PDF_QA_Bot, CareXpert_backend | @kevaljogani, @DaxGondaliya |
 | 30. | **Team 132** | 10 | 2 | 1 | PDF_QA_Bot, CareXpert_frontend | @Mathakiya-Amal |
 | 31. | **Team 072** | 10 | 2 | 1 | Zaplink_frontend, PDF_QA_Bot | @kushpatel2601 |
-| 32. | **Team 188** | 10 | 2 | 1 | Zaplink_backend, CareXpert_backend | @24cs062 |
-| 33. | **Team 80** | 5 | 1 | 1 | FMEA_SupplyChain | @Ommodi07 |
-| 34. | **Team 109** | 5 | 1 | 1 | CareXpert_backend | @manthan2876 |
-| 35. | **Team 114** | 5 | 1 | 1 | Code_duel_frontend | @Preetsavaliya111 |
-| 36. | **Team 036** | 5 | 1 | 1 | Zaplink_frontend | @Pratham3900 |
+| 32. | **Team 036** | 10 | 2 | 2 | Zaplink_frontend, CareXpert_backend | @Pratham3900, @pratham-25mca046 |
+| 33. | **Team 188** | 10 | 2 | 1 | Zaplink_backend, CareXpert_backend | @24cs062 |
+| 34. | **Team 80** | 5 | 1 | 1 | FMEA_SupplyChain | @Ommodi07 |
+| 35. | **Team 109** | 5 | 1 | 1 | CareXpert_backend | @manthan2876 |
+| 36. | **Team 114** | 5 | 1 | 1 | Code_duel_frontend | @Preetsavaliya111 |
 | 37. | **Team 137** | 5 | 1 | 1 | Zaplink_frontend | @hindochahitarth |
 | 38. | **Team 170** | 5 | 1 | 1 | CareXpert_backend | @DakshSavani13 |
 | 39. | **Team 138** | 5 | 1 | 1 | CareXpert_frontend | @Vaibhavi-1107 |
@@ -112,6 +112,7 @@
 | 53. | @Vaibhavi-1107 | Team 138 | 5 | 1 | CareXpert_frontend |
 | 54. | @KavyDave18 | Team 155 | 5 | 1 | super-roast-bot |
 | 55. | @Aelees0807 | Team 171 | 5 | 1 | Code_duel_frontend |
+| 56. | @pratham-25mca046 | Team 036 | 5 | 1 | CareXpert_backend |
 
 ---
 

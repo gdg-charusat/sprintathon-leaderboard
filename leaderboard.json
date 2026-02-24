@@ -299,13 +299,15 @@
       ]
     },
     "Team 036": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "contributors": [
-        "Pratham3900"
+        "Pratham3900",
+        "pratham-25mca046"
       ],
       "repos": [
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "CareXpert_backend"
       ]
     },
     "Team 137": {
@@ -915,6 +917,14 @@
       "points": 20,
       "prs": 1,
       "team": "Team 126",
+      "repos": [
+        "CareXpert_backend"
+      ]
+    },
+    "pratham-25mca046": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 036",
       "repos": [
         "CareXpert_backend"
       ]
