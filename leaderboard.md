@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Tue, 24 Feb 2026 07:18:46 GMT
+> **Last Updated:** Tue, 24 Feb 2026 07:46:30 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -9,7 +9,7 @@
 
 | Rank | Team | Total Points | PRs Merged | Members | Active Repos | Contributors |
 |------|------|:------------:|:----------:|:-------:|--------------|---------------|
-| 🥇 | **Team 173** | 105 | 6 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend | @vasu-CE |
+| 🥇 | **Team 173** | 110 | 7 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend | @vasu-CE |
 | 🥈 | **Team 152** | 70 | 8 | 2 | PDF_QA_Bot, Code_duel_frontend, Zaplink_backend, CareXpert_backend | @Krish3017, @Talaviya-Sarthak |
 | 🥉 | **Team 125** | 70 | 5 | 2 | CareXpert_frontend, Zaplink_frontend | @Diyap235, @Yashvi29-power |
 | 4. | **Team 135** | 60 | 3 | 2 | PDF_QA_Bot | @JainiSolanki, @HetviHR |
@@ -58,7 +58,7 @@
 
 | Rank | GitHub | Team | Points | PRs Merged | Repos |
 |------|--------|------|:------:|:----------:|-------|
-| 🥇 | @vasu-CE | Team 173 | 105 | 6 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend |
+| 🥇 | @vasu-CE | Team 173 | 110 | 7 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend |
 | 🥈 | @dhruvpatel848 | Team 082 | 65 | 4 | CareXpert_backend, PDF_QA_Bot, Zaplink_backend |
 | 🥉 | @Diyap235 | Team 125 | 50 | 4 | CareXpert_frontend |
 | 4. | @Krish3017 | Team 152 | 45 | 6 | PDF_QA_Bot, Code_duel_frontend, CareXpert_backend |
