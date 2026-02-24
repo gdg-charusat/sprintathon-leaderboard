@@ -527,6 +527,16 @@
       "repos": [
         "CareXpert_frontend"
       ]
+    },
+    "Team 187": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "Yashgohel018"
+      ],
+      "repos": [
+        "CareXpert_frontend"
+      ]
     }
   },
   "contributors": {
@@ -1102,6 +1112,14 @@
       "points": 20,
       "prs": 1,
       "team": "Team 107",
+      "repos": [
+        "CareXpert_frontend"
+      ]
+    },
+    "Yashgohel018": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 187",
       "repos": [
         "CareXpert_frontend"
       ]
