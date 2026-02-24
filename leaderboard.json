@@ -418,13 +418,15 @@
       ]
     },
     "Team 102": {
-      "points": 20,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
-        "PATELSHAIL7125"
+        "PATELSHAIL7125",
+        "MayankT1409"
       ],
       "repos": [
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "CareXpert_backend"
       ]
     },
     "Team 155": {
@@ -925,6 +927,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 036",
+      "repos": [
+        "CareXpert_backend"
+      ]
+    },
+    "MayankT1409": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 102",
       "repos": [
         "CareXpert_backend"
       ]
