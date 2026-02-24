@@ -453,6 +453,16 @@
       "repos": [
         "Code_duel_frontend"
       ]
+    },
+    "Team 126": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "PatelAaryan03"
+      ],
+      "repos": [
+        "CareXpert_backend"
+      ]
     }
   },
   "contributors": {
@@ -908,6 +918,14 @@
       "team": "Team 171",
       "repos": [
         "Code_duel_frontend"
+      ]
+    },
+    "PatelAaryan03": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 126",
+      "repos": [
+        "CareXpert_backend"
       ]
     }
   }
