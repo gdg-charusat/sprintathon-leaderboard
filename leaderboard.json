@@ -268,14 +268,16 @@
       ]
     },
     "Team 132": {
-      "points": 10,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "contributors": [
-        "Mathakiya-Amal"
+        "Mathakiya-Amal",
+        "Aryanghadiya"
       ],
       "repos": [
         "PDF_QA_Bot",
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "super-roast-bot"
       ]
     },
     "Team 114": {
@@ -967,6 +969,14 @@
       "points": 20,
       "prs": 1,
       "team": "Team 131",
+      "repos": [
+        "super-roast-bot"
+      ]
+    },
+    "Aryanghadiya": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 132",
       "repos": [
         "super-roast-bot"
       ]
