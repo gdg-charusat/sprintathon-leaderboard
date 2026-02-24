@@ -175,14 +175,15 @@
       ]
     },
     "Team 082": {
-      "points": 45,
-      "prs": 3,
+      "points": 65,
+      "prs": 4,
       "contributors": [
         "dhruvpatel848"
       ],
       "repos": [
         "CareXpert_backend",
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "PDF_QA_Bot"
       ]
     },
     "Team 150": {
@@ -294,16 +295,6 @@
       ],
       "repos": [
         "Zaplink_frontend",
-        "PDF_QA_Bot"
-      ]
-    },
-    "Team 82": {
-      "points": 20,
-      "prs": 1,
-      "contributors": [
-        "dhruvpatel848"
-      ],
-      "repos": [
         "PDF_QA_Bot"
       ]
     },
