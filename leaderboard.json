@@ -342,14 +342,15 @@
       ]
     },
     "Team 066": {
-      "points": 40,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "contributors": [
         "chaitany851P"
       ],
       "repos": [
         "Code_duel_backend",
-        "super-roast-bot"
+        "super-roast-bot",
+        "Zaplink_backend"
       ]
     },
     "Team 168": {
@@ -827,12 +828,13 @@
       ]
     },
     "chaitany851P": {
-      "points": 40,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "team": "Team 066",
       "repos": [
         "Code_duel_backend",
-        "super-roast-bot"
+        "super-roast-bot",
+        "Zaplink_backend"
       ]
     },
     "mayankpadmani": {
