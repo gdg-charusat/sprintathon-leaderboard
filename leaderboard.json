@@ -503,6 +503,16 @@
       "repos": [
         "FMEA_SupplyChain"
       ]
+    },
+    "Team 147": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "Deepbhalani1277"
+      ],
+      "repos": [
+        "FMEA_SupplyChain"
+      ]
     }
   },
   "contributors": {
@@ -1054,6 +1064,14 @@
       "team": "Team 102",
       "repos": [
         "Zaplink_backend"
+      ]
+    },
+    "Deepbhalani1277": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 147",
+      "repos": [
+        "FMEA_SupplyChain"
       ]
     }
   }
