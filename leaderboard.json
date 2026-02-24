@@ -168,14 +168,16 @@
       ]
     },
     "Team 065": {
-      "points": 45,
-      "prs": 3,
+      "points": 50,
+      "prs": 4,
       "contributors": [
-        "Ashok089"
+        "Ashok089",
+        "Shubhp0712"
       ],
       "repos": [
         "CareXpert_backend",
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Zaplink_backend"
       ]
     },
     "Team 082": {
@@ -1074,6 +1076,14 @@
       "team": "Team 147",
       "repos": [
         "FMEA_SupplyChain"
+      ]
+    },
+    "Shubhp0712": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 065",
+      "repos": [
+        "Zaplink_backend"
       ]
     }
   }
