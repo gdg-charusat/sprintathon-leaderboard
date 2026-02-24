@@ -10,7 +10,7 @@
 | Rank | Team | Total Points | PRs Merged | Members | Active Repos | Contributors |
 |------|------|:------------:|:----------:|:-------:|--------------|---------------|
 | 🥇 | **Team 173** | 115 | 8 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend | @vasu-CE |
-| 🥈 | **Team 152** | 105 | 11 | 2 | PDF_QA_Bot, Code_duel_frontend, Zaplink_backend, CareXpert_backend | @Krish3017, @Talaviya-Sarthak |
+| 🥈 | **Team 152** | 95 | 10 | 2 | PDF_QA_Bot, Code_duel_frontend, Zaplink_backend, CareXpert_backend | @Krish3017, @Talaviya-Sarthak |
 | 🥉 | **Team 125** | 90 | 6 | 2 | CareXpert_frontend, Zaplink_frontend | @Diyap235, @Yashvi29-power |
 | 4. | **Team 082** | 65 | 4 | 1 | CareXpert_backend, Zaplink_backend, PDF_QA_Bot | @dhruvpatel848 |
 | 5. | **Team 146** | 65 | 4 | 4 | Zaplink_backend, CareXpert_backend, CareXpert_frontend, FMEA_SupplyChain | @Dhruvi-kanabar30, @Ronit069, @Mahi1206, @Aryan-B-Parikh |
