@@ -443,6 +443,16 @@
       "repos": [
         "super-roast-bot"
       ]
+    },
+    "Team 171": {
+      "points": 5,
+      "prs": 1,
+      "contributors": [
+        "Aelees0807"
+      ],
+      "repos": [
+        "Code_duel_frontend"
+      ]
     }
   },
   "contributors": {
@@ -890,6 +900,14 @@
       "team": "Team 155",
       "repos": [
         "super-roast-bot"
+      ]
+    },
+    "Aelees0807": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 171",
+      "repos": [
+        "Code_duel_frontend"
       ]
     }
   }
