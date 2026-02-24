@@ -436,10 +436,11 @@
       ]
     },
     "Team 155": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "contributors": [
-        "KavyDave18"
+        "KavyDave18",
+        "harshitpambhar"
       ],
       "repos": [
         "super-roast-bot"
@@ -995,6 +996,14 @@
       "points": 20,
       "prs": 1,
       "team": "Team 186",
+      "repos": [
+        "super-roast-bot"
+      ]
+    },
+    "harshitpambhar": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 155",
       "repos": [
         "super-roast-bot"
       ]

@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Tue, 24 Feb 2026 09:45:33 GMT
+> **Last Updated:** Tue, 24 Feb 2026 10:04:30 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -44,13 +44,13 @@
 | 33. | **Team 153** | 10 | 2 | 1 | PDF_QA_Bot, CareXpert_backend | @unnatii14 |
 | 34. | **Team 163** | 10 | 2 | 2 | PDF_QA_Bot, CareXpert_backend | @kevaljogani, @DaxGondaliya |
 | 35. | **Team 072** | 10 | 2 | 1 | Zaplink_frontend, PDF_QA_Bot | @kushpatel2601 |
-| 36. | **Team 80** | 5 | 1 | 1 | FMEA_SupplyChain | @Ommodi07 |
-| 37. | **Team 109** | 5 | 1 | 1 | CareXpert_backend | @manthan2876 |
-| 38. | **Team 114** | 5 | 1 | 1 | Code_duel_frontend | @Preetsavaliya111 |
-| 39. | **Team 137** | 5 | 1 | 1 | Zaplink_frontend | @hindochahitarth |
-| 40. | **Team 170** | 5 | 1 | 1 | CareXpert_backend | @DakshSavani13 |
-| 41. | **Team 138** | 5 | 1 | 1 | CareXpert_frontend | @Vaibhavi-1107 |
-| 42. | **Team 155** | 5 | 1 | 1 | super-roast-bot | @KavyDave18 |
+| 36. | **Team 155** | 10 | 2 | 2 | super-roast-bot | @KavyDave18, @harshitpambhar |
+| 37. | **Team 80** | 5 | 1 | 1 | FMEA_SupplyChain | @Ommodi07 |
+| 38. | **Team 109** | 5 | 1 | 1 | CareXpert_backend | @manthan2876 |
+| 39. | **Team 114** | 5 | 1 | 1 | Code_duel_frontend | @Preetsavaliya111 |
+| 40. | **Team 137** | 5 | 1 | 1 | Zaplink_frontend | @hindochahitarth |
+| 41. | **Team 170** | 5 | 1 | 1 | CareXpert_backend | @DakshSavani13 |
+| 42. | **Team 138** | 5 | 1 | 1 | CareXpert_frontend | @Vaibhavi-1107 |
 | 43. | **Team 171** | 5 | 1 | 1 | Code_duel_frontend | @Aelees0807 |
 
 ---
@@ -120,6 +120,7 @@
 | 59. | @Aelees0807 | Team 171 | 5 | 1 | Code_duel_frontend |
 | 60. | @pratham-25mca046 | Team 036 | 5 | 1 | CareXpert_backend |
 | 61. | @MayankT1409 | Team 102 | 5 | 1 | CareXpert_backend |
+| 62. | @harshitpambhar | Team 155 | 5 | 1 | super-roast-bot |
 
 ---
 
