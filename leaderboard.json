@@ -190,8 +190,8 @@
       ]
     },
     "Team 150": {
-      "points": 50,
-      "prs": 4,
+      "points": 70,
+      "prs": 5,
       "contributors": [
         "Akshat14z",
         "dhrumil246"
@@ -661,8 +661,8 @@
       ]
     },
     "Akshat14z": {
-      "points": 25,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "team": "Team 150",
       "repos": [
         "Code_duel_frontend",
