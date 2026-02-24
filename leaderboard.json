@@ -517,6 +517,16 @@
       "repos": [
         "FMEA_SupplyChain"
       ]
+    },
+    "Team 107": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "Sp2736"
+      ],
+      "repos": [
+        "CareXpert_frontend"
+      ]
     }
   },
   "contributors": {
@@ -1086,6 +1096,14 @@
       "team": "Team 065",
       "repos": [
         "Zaplink_backend"
+      ]
+    },
+    "Sp2736": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 107",
+      "repos": [
+        "CareXpert_frontend"
       ]
     }
   }
