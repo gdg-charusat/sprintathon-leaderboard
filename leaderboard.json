@@ -392,17 +392,19 @@
       ]
     },
     "Team 146": {
-      "points": 45,
-      "prs": 3,
+      "points": 65,
+      "prs": 4,
       "contributors": [
         "Dhruvi-kanabar30",
         "Ronit069",
-        "Mahi1206"
+        "Mahi1206",
+        "Aryan-B-Parikh"
       ],
       "repos": [
         "Zaplink_backend",
         "CareXpert_backend",
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "FMEA_SupplyChain"
       ]
     },
     "Team 170": {
@@ -1027,6 +1029,14 @@
       "points": 5,
       "prs": 1,
       "team": "Team 144",
+      "repos": [
+        "FMEA_SupplyChain"
+      ]
+    },
+    "Aryan-B-Parikh": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 146",
       "repos": [
         "FMEA_SupplyChain"
       ]
