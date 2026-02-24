@@ -474,6 +474,16 @@
       "repos": [
         "super-roast-bot"
       ]
+    },
+    "Team 186": {
+      "points": 20,
+      "prs": 1,
+      "contributors": [
+        "Raxnakum11"
+      ],
+      "repos": [
+        "super-roast-bot"
+      ]
     }
   },
   "contributors": {
@@ -977,6 +987,14 @@
       "points": 20,
       "prs": 1,
       "team": "Team 132",
+      "repos": [
+        "super-roast-bot"
+      ]
+    },
+    "Raxnakum11": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 186",
       "repos": [
         "super-roast-bot"
       ]
