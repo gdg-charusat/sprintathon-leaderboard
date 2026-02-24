@@ -175,8 +175,8 @@
       ]
     },
     "Team 082": {
-      "points": 25,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "contributors": [
         "dhruvpatel848"
       ],
@@ -576,8 +576,8 @@
       ]
     },
     "dhruvpatel848": {
-      "points": 45,
-      "prs": 3,
+      "points": 65,
+      "prs": 4,
       "team": "Team 082",
       "repos": [
         "CareXpert_backend",
