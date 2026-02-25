@@ -276,16 +276,18 @@
       ]
     },
     "Team 132": {
-      "points": 30,
-      "prs": 3,
+      "points": 50,
+      "prs": 4,
       "contributors": [
         "Mathakiya-Amal",
-        "Aryanghadiya"
+        "Aryanghadiya",
+        "DeepMakwana-18"
       ],
       "repos": [
         "PDF_QA_Bot",
         "CareXpert_frontend",
-        "super-roast-bot"
+        "super-roast-bot",
+        "Zaplink_frontend"
       ]
     },
     "Team 114": {
@@ -1133,6 +1135,14 @@
       "team": "Team 152",
       "repos": [
         "PDF_QA_Bot"
+      ]
+    },
+    "DeepMakwana-18": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 132",
+      "repos": [
+        "Zaplink_frontend"
       ]
     }
   }
