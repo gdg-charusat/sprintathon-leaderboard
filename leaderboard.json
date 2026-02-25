@@ -231,8 +231,8 @@
       ]
     },
     "Team 153": {
-      "points": 10,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "contributors": [
         "unnatii14"
       ],
@@ -724,8 +724,8 @@
       ]
     },
     "unnatii14": {
-      "points": 10,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "team": "Team 153",
       "repos": [
         "PDF_QA_Bot",
