@@ -28,11 +28,12 @@
       ]
     },
     "Team 152": {
-      "points": 120,
-      "prs": 12,
+      "points": 140,
+      "prs": 13,
       "contributors": [
         "Krish3017",
-        "Talaviya-Sarthak"
+        "Talaviya-Sarthak",
+        "surejasmit"
       ],
       "repos": [
         "PDF_QA_Bot",
@@ -1122,6 +1123,14 @@
       "team": "Team 187",
       "repos": [
         "CareXpert_frontend"
+      ]
+    },
+    "surejasmit": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 152",
+      "repos": [
+        "PDF_QA_Bot"
       ]
     }
   }
