@@ -245,8 +245,8 @@
       ]
     },
     "Team 135": {
-      "points": 85,
-      "prs": 5,
+      "points": 90,
+      "prs": 6,
       "contributors": [
         "JainiSolanki",
         "HetviHR"
@@ -744,8 +744,8 @@
       ]
     },
     "JainiSolanki": {
-      "points": 45,
-      "prs": 3,
+      "points": 50,
+      "prs": 4,
       "team": "Team 135",
       "repos": [
         "PDF_QA_Bot",
