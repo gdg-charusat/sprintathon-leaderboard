@@ -88,8 +88,8 @@
       ]
     },
     "Team 149": {
-      "points": 60,
-      "prs": 6,
+      "points": 65,
+      "prs": 7,
       "contributors": [
         "RutviShah2"
       ],
@@ -615,8 +615,8 @@
       ]
     },
     "RutviShah2": {
-      "points": 60,
-      "prs": 6,
+      "points": 65,
+      "prs": 7,
       "team": "Team 149",
       "repos": [
         "Zaplink_frontend",
