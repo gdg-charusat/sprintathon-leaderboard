@@ -87,8 +87,8 @@
       ]
     },
     "Team 149": {
-      "points": 55,
-      "prs": 5,
+      "points": 60,
+      "prs": 6,
       "contributors": [
         "RutviShah2"
       ],
@@ -96,7 +96,8 @@
         "Zaplink_frontend",
         "CareXpert_frontend",
         "FMEA_SupplyChain",
-        "super-roast-bot"
+        "super-roast-bot",
+        "PDF_QA_Bot"
       ]
     },
     "Team 052": {
@@ -608,14 +609,15 @@
       ]
     },
     "RutviShah2": {
-      "points": 55,
-      "prs": 5,
+      "points": 60,
+      "prs": 6,
       "team": "Team 149",
       "repos": [
         "Zaplink_frontend",
         "CareXpert_frontend",
         "FMEA_SupplyChain",
-        "super-roast-bot"
+        "super-roast-bot",
+        "PDF_QA_Bot"
       ]
     },
     "atul-upadhyay-7": {
