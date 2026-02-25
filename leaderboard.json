@@ -528,13 +528,14 @@
       ]
     },
     "Team 107": {
-      "points": 20,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
         "Sp2736"
       ],
       "repos": [
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Zaplink_frontend"
       ]
     },
     "Team 187": {
@@ -1121,11 +1122,12 @@
       ]
     },
     "Sp2736": {
-      "points": 20,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "team": "Team 107",
       "repos": [
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Zaplink_frontend"
       ]
     },
     "Yashgohel018": {
