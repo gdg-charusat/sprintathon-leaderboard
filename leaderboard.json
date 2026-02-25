@@ -171,8 +171,8 @@
       ]
     },
     "Team 065": {
-      "points": 55,
-      "prs": 5,
+      "points": 60,
+      "prs": 6,
       "contributors": [
         "Ashok089",
         "Shubhp0712",
@@ -1161,8 +1161,8 @@
       ]
     },
     "samarthpatel2005": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "team": "Team 065",
       "repos": [
         "Zaplink_frontend"
