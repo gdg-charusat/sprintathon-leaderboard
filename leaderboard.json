@@ -326,8 +326,8 @@
       ]
     },
     "Team 137": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "contributors": [
         "hindochahitarth"
       ],
@@ -829,8 +829,8 @@
       ]
     },
     "hindochahitarth": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "team": "Team 137",
       "repos": [
         "Zaplink_frontend"
