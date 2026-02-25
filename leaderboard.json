@@ -539,13 +539,14 @@
       ]
     },
     "Team 187": {
-      "points": 20,
-      "prs": 1,
+      "points": 40,
+      "prs": 2,
       "contributors": [
         "Yashgohel018"
       ],
       "repos": [
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Zaplink_frontend"
       ]
     }
   },
@@ -1131,11 +1132,12 @@
       ]
     },
     "Yashgohel018": {
-      "points": 20,
-      "prs": 1,
+      "points": 40,
+      "prs": 2,
       "team": "Team 187",
       "repos": [
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Zaplink_frontend"
       ]
     },
     "surejasmit": {
