@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Wed, 25 Feb 2026 18:11:45 GMT
+> **Last Updated:** Wed, 25 Feb 2026 18:13:23 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -27,8 +27,8 @@
 | 16. | **Team 83** | 45 | 3 | 2 | Zaplink_backend, CareXpert_backend, PDF_QA_Bot | @DeepPatel4505, @NishitPDesai |
 | 17. | **Team 102** | 45 | 3 | 3 | CareXpert_frontend, CareXpert_backend, Zaplink_backend | @PATELSHAIL7125, @MayankT1409, @Manthann07 |
 | 18. | **Team 153** | 30 | 3 | 1 | PDF_QA_Bot, CareXpert_backend | @unnatii14 |
-| 19. | **Team 087** | 25 | 2 | 1 | super-roast-bot, Zaplink_backend | @Ansh-dhanani |
-| 20. | **Team 113** | 25 | 2 | 1 | Code_duel_frontend, CareXpert_frontend | @7JankiPanchal |
+| 19. | **Team 113** | 30 | 3 | 2 | Code_duel_frontend, CareXpert_frontend, Zaplink_frontend | @7JankiPanchal, @sneha029 |
+| 20. | **Team 087** | 25 | 2 | 1 | super-roast-bot, Zaplink_backend | @Ansh-dhanani |
 | 21. | **Team 052** | 20 | 4 | 1 | Zaplink_frontend, super-roast-bot | @atul-upadhyay-7 |
 | 22. | **Team 119** | 20 | 4 | 2 | CareXpert_frontend, Code_duel_frontend | @HeerGhevariya, @smitgoyani123 |
 | 23. | **Team 120** | 20 | 1 | 1 | PDF_QA_Bot | @vraj826 |
@@ -134,6 +134,7 @@
 | 69. | @renanaik | Team 144 | 5 | 1 | FMEA_SupplyChain |
 | 70. | @Deepbhalani1277 | Team 147 | 5 | 1 | FMEA_SupplyChain |
 | 71. | @Shubhp0712 | Team 065 | 5 | 1 | Zaplink_backend |
+| 72. | @sneha029 | Team 113 | 5 | 1 | Zaplink_frontend |
 
 ---
 
