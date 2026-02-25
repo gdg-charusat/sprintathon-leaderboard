@@ -15,8 +15,8 @@
       ]
     },
     "Team 173": {
-      "points": 165,
-      "prs": 12,
+      "points": 170,
+      "prs": 13,
       "contributors": [
         "vasu-CE"
       ],
@@ -560,8 +560,8 @@
       ]
     },
     "vasu-CE": {
-      "points": 165,
-      "prs": 12,
+      "points": 170,
+      "prs": 13,
       "team": "Team 173",
       "repos": [
         "Code_duel_frontend",
