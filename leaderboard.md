@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Wed, 25 Feb 2026 18:14:57 GMT
+> **Last Updated:** Wed, 25 Feb 2026 18:19:53 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -9,8 +9,8 @@
 
 | Rank | Team | Total Points | PRs Merged | Members | Active Repos | Contributors |
 |------|------|:------------:|:----------:|:-------:|--------------|---------------|
-| 🥇 | **Team 152** | 140 | 13 | 3 | PDF_QA_Bot, Code_duel_frontend, Zaplink_backend, CareXpert_backend, CareXpert_frontend | @Krish3017, @Talaviya-Sarthak, @surejasmit |
-| 🥈 | **Team 173** | 140 | 10 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend, Zaplink_frontend | @vasu-CE |
+| 🥇 | **Team 173** | 145 | 11 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend, Zaplink_frontend | @vasu-CE |
+| 🥈 | **Team 152** | 140 | 13 | 3 | PDF_QA_Bot, Code_duel_frontend, Zaplink_backend, CareXpert_backend, CareXpert_frontend | @Krish3017, @Talaviya-Sarthak, @surejasmit |
 | 🥉 | **Team 125** | 115 | 8 | 2 | CareXpert_frontend, Zaplink_frontend | @Diyap235, @Yashvi29-power |
 | 4. | **Team 124** | 80 | 7 | 3 | Zaplink_frontend, CareXpert_frontend, Zaplink_backend | @PrinceDiyora, @kunj01, @RudraDudhat |
 | 5. | **Team 135** | 80 | 4 | 2 | PDF_QA_Bot | @JainiSolanki, @HetviHR |
@@ -63,7 +63,7 @@
 
 | Rank | GitHub | Team | Points | PRs Merged | Repos |
 |------|--------|------|:------:|:----------:|-------|
-| 🥇 | @vasu-CE | Team 173 | 140 | 10 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend, Zaplink_frontend |
+| 🥇 | @vasu-CE | Team 173 | 145 | 11 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend, Zaplink_frontend |
 | 🥈 | @Diyap235 | Team 125 | 75 | 6 | CareXpert_frontend |
 | 🥉 | @Krish3017 | Team 152 | 70 | 8 | PDF_QA_Bot, Code_duel_frontend, CareXpert_backend, Zaplink_backend, CareXpert_frontend |
 | 4. | @RutviShah2 | Team 149 | 65 | 7 | Zaplink_frontend, CareXpert_frontend, FMEA_SupplyChain, super-roast-bot, PDF_QA_Bot |
