@@ -524,8 +524,8 @@
       ]
     },
     "Team 144": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "contributors": [
         "renanaik"
       ],
@@ -1109,8 +1109,8 @@
       ]
     },
     "renanaik": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "team": "Team 144",
       "repos": [
         "FMEA_SupplyChain"
