@@ -69,8 +69,8 @@
       ]
     },
     "Team 80": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
         "Ommodi07"
       ],
@@ -606,8 +606,8 @@
       ]
     },
     "Ommodi07": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "team": "Team 80",
       "repos": [
         "FMEA_SupplyChain"
