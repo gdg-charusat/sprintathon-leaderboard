@@ -103,14 +103,15 @@
       ]
     },
     "Team 052": {
-      "points": 20,
-      "prs": 4,
+      "points": 25,
+      "prs": 5,
       "contributors": [
         "atul-upadhyay-7"
       ],
       "repos": [
         "Zaplink_frontend",
-        "super-roast-bot"
+        "super-roast-bot",
+        "CareXpert_frontend"
       ]
     },
     "Team 123": {
@@ -636,12 +637,13 @@
       ]
     },
     "atul-upadhyay-7": {
-      "points": 20,
-      "prs": 4,
+      "points": 25,
+      "prs": 5,
       "team": "Team 052",
       "repos": [
         "Zaplink_frontend",
-        "super-roast-bot"
+        "super-roast-bot",
+        "CareXpert_frontend"
       ]
     },
     "princedesai012": {
