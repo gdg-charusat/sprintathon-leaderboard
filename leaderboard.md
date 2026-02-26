@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Thu, 26 Feb 2026 16:42:47 GMT
+> **Last Updated:** Thu, 26 Feb 2026 16:51:58 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -10,7 +10,7 @@
 | Rank | Team | Total Points | PRs Merged | Members | Active Repos | Contributors |
 |------|------|:------------:|:----------:|:-------:|--------------|---------------|
 | 🥇 | **Team 173** | 190 | 14 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend, Zaplink_frontend | @vasu-CE |
-| 🥈 | **Team 152** | 160 | 14 | 3 | PDF_QA_Bot, Code_duel_frontend, Zaplink_backend, CareXpert_backend, CareXpert_frontend, super-roast-bot | @Krish3017, @Talaviya-Sarthak, @surejasmit |
+| 🥈 | **Team 152** | 180 | 15 | 3 | PDF_QA_Bot, Code_duel_frontend, Zaplink_backend, CareXpert_backend, CareXpert_frontend, super-roast-bot | @Krish3017, @Talaviya-Sarthak, @surejasmit |
 | 🥉 | **Team 125** | 135 | 9 | 2 | CareXpert_frontend, Zaplink_frontend | @Diyap235, @Yashvi29-power |
 | 4. | **Team 124** | 130 | 11 | 3 | Zaplink_frontend, CareXpert_frontend, Zaplink_backend | @PrinceDiyora, @kunj01, @RudraDudhat |
 | 5. | **Team 149** | 125 | 10 | 1 | Zaplink_frontend, CareXpert_frontend, FMEA_SupplyChain, super-roast-bot, PDF_QA_Bot | @RutviShah2 |
@@ -66,7 +66,7 @@
 | 🥇 | @vasu-CE | Team 173 | 190 | 14 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend, Zaplink_frontend |
 | 🥈 | @RutviShah2 | Team 149 | 125 | 10 | Zaplink_frontend, CareXpert_frontend, FMEA_SupplyChain, super-roast-bot, PDF_QA_Bot |
 | 🥉 | @Diyap235 | Team 125 | 95 | 7 | CareXpert_frontend |
-| 4. | @Krish3017 | Team 152 | 70 | 8 | PDF_QA_Bot, Code_duel_frontend, CareXpert_backend, Zaplink_backend, CareXpert_frontend |
+| 4. | @Krish3017 | Team 152 | 90 | 9 | PDF_QA_Bot, Code_duel_frontend, CareXpert_backend, Zaplink_backend, CareXpert_frontend |
 | 5. | @dhruvpatel848 | Team 082 | 65 | 4 | CareXpert_backend, PDF_QA_Bot, Zaplink_backend |
 | 6. | @chaitany851P | Team 066 | 65 | 4 | Code_duel_backend, super-roast-bot, Zaplink_backend |
 | 7. | @RudraDudhat | Team 124 | 65 | 4 | Zaplink_backend, Zaplink_frontend |
