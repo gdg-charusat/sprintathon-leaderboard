@@ -438,13 +438,15 @@
       ]
     },
     "Team 138": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "contributors": [
-        "Vaibhavi-1107"
+        "Vaibhavi-1107",
+        "Pushtikansara"
       ],
       "repos": [
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "CareXpert_backend"
       ]
     },
     "Team 102": {
@@ -1191,6 +1193,14 @@
       "team": "Team 153",
       "repos": [
         "PDF_QA_Bot"
+      ]
+    },
+    "Pushtikansara": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 138",
+      "repos": [
+        "CareXpert_backend"
       ]
     }
   }
