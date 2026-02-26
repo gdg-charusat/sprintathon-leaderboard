@@ -29,8 +29,8 @@
       ]
     },
     "Team 152": {
-      "points": 140,
-      "prs": 13,
+      "points": 160,
+      "prs": 14,
       "contributors": [
         "Krish3017",
         "Talaviya-Sarthak",
@@ -41,7 +41,8 @@
         "Code_duel_frontend",
         "Zaplink_backend",
         "CareXpert_backend",
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "super-roast-bot"
       ]
     },
     "Team 177": {
@@ -1145,11 +1146,12 @@
       ]
     },
     "surejasmit": {
-      "points": 20,
-      "prs": 1,
+      "points": 40,
+      "prs": 2,
       "team": "Team 152",
       "repos": [
-        "PDF_QA_Bot"
+        "PDF_QA_Bot",
+        "super-roast-bot"
       ]
     },
     "DeepMakwana-18": {
