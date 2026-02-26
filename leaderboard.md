@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Thu, 26 Feb 2026 17:35:50 GMT
+> **Last Updated:** Thu, 26 Feb 2026 17:37:01 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -33,25 +33,25 @@
 | 22. | **Team 052** | 30 | 6 | 1 | Zaplink_frontend, super-roast-bot, CareXpert_frontend, FMEA_SupplyChain | @atul-upadhyay-7 |
 | 23. | **Team 113** | 30 | 3 | 2 | Code_duel_frontend, CareXpert_frontend, Zaplink_frontend | @7JankiPanchal, @sneha029 |
 | 24. | **Team 163** | 30 | 3 | 2 | PDF_QA_Bot, CareXpert_backend | @kevaljogani, @DaxGondaliya |
-| 25. | **Team 087** | 25 | 2 | 1 | super-roast-bot, Zaplink_backend | @Ansh-dhanani |
-| 26. | **Team 80** | 25 | 2 | 1 | FMEA_SupplyChain | @Ommodi07 |
-| 27. | **Team 170** | 25 | 2 | 1 | CareXpert_backend, CareXpert_frontend | @DakshSavani13 |
-| 28. | **Team 126** | 25 | 2 | 2 | CareXpert_backend | @PatelAaryan03, @Hetrajj07 |
-| 29. | **Team 107** | 25 | 2 | 1 | CareXpert_frontend, Zaplink_frontend | @Sp2736 |
-| 30. | **Team 119** | 20 | 4 | 2 | CareXpert_frontend, Code_duel_frontend | @HeerGhevariya, @smitgoyani123 |
-| 31. | **Team 120** | 20 | 1 | 1 | PDF_QA_Bot | @vraj826 |
-| 32. | **Team 167** | 20 | 1 | 1 | Code_duel_frontend | @devvpin |
-| 33. | **Team 161** | 20 | 1 | 1 | CareXpert_frontend | @Jerry-145 |
-| 34. | **Team 168** | 20 | 1 | 1 | Code_duel_backend | @mayankpadmani |
-| 35. | **Team 131** | 20 | 1 | 1 | super-roast-bot | @DarshitSorathiya |
-| 36. | **Team 186** | 20 | 1 | 1 | super-roast-bot | @Raxnakum11 |
-| 37. | **Team 101** | 15 | 3 | 2 | CareXpert_frontend, PDF_QA_Bot | @ohmbhatia, @hetrakholiya11 |
-| 38. | **Team 072** | 15 | 3 | 1 | Zaplink_frontend, PDF_QA_Bot, super-roast-bot | @kushpatel2601 |
-| 39. | **Team 188** | 15 | 3 | 1 | Zaplink_backend, CareXpert_backend | @24cs062 |
-| 40. | **Team 123** | 10 | 2 | 2 | Zaplink_backend, Code_duel_frontend | @princedesai012, @rishi-sheladiya-26 |
-| 41. | **Team 137** | 10 | 2 | 1 | Zaplink_frontend | @hindochahitarth |
-| 42. | **Team 138** | 10 | 2 | 2 | CareXpert_frontend, CareXpert_backend | @Vaibhavi-1107, @Pushtikansara |
-| 43. | **Team 144** | 10 | 2 | 1 | FMEA_SupplyChain | @renanaik |
+| 25. | **Team 144** | 30 | 3 | 1 | FMEA_SupplyChain, CareXpert_backend | @renanaik |
+| 26. | **Team 087** | 25 | 2 | 1 | super-roast-bot, Zaplink_backend | @Ansh-dhanani |
+| 27. | **Team 80** | 25 | 2 | 1 | FMEA_SupplyChain | @Ommodi07 |
+| 28. | **Team 170** | 25 | 2 | 1 | CareXpert_backend, CareXpert_frontend | @DakshSavani13 |
+| 29. | **Team 126** | 25 | 2 | 2 | CareXpert_backend | @PatelAaryan03, @Hetrajj07 |
+| 30. | **Team 107** | 25 | 2 | 1 | CareXpert_frontend, Zaplink_frontend | @Sp2736 |
+| 31. | **Team 119** | 20 | 4 | 2 | CareXpert_frontend, Code_duel_frontend | @HeerGhevariya, @smitgoyani123 |
+| 32. | **Team 120** | 20 | 1 | 1 | PDF_QA_Bot | @vraj826 |
+| 33. | **Team 167** | 20 | 1 | 1 | Code_duel_frontend | @devvpin |
+| 34. | **Team 161** | 20 | 1 | 1 | CareXpert_frontend | @Jerry-145 |
+| 35. | **Team 168** | 20 | 1 | 1 | Code_duel_backend | @mayankpadmani |
+| 36. | **Team 131** | 20 | 1 | 1 | super-roast-bot | @DarshitSorathiya |
+| 37. | **Team 186** | 20 | 1 | 1 | super-roast-bot | @Raxnakum11 |
+| 38. | **Team 101** | 15 | 3 | 2 | CareXpert_frontend, PDF_QA_Bot | @ohmbhatia, @hetrakholiya11 |
+| 39. | **Team 072** | 15 | 3 | 1 | Zaplink_frontend, PDF_QA_Bot, super-roast-bot | @kushpatel2601 |
+| 40. | **Team 188** | 15 | 3 | 1 | Zaplink_backend, CareXpert_backend | @24cs062 |
+| 41. | **Team 123** | 10 | 2 | 2 | Zaplink_backend, Code_duel_frontend | @princedesai012, @rishi-sheladiya-26 |
+| 42. | **Team 137** | 10 | 2 | 1 | Zaplink_frontend | @hindochahitarth |
+| 43. | **Team 138** | 10 | 2 | 2 | CareXpert_frontend, CareXpert_backend | @Vaibhavi-1107, @Pushtikansara |
 | 44. | **Team 109** | 5 | 1 | 1 | CareXpert_backend | @manthan2876 |
 | 45. | **Team 114** | 5 | 1 | 1 | Code_duel_frontend | @Preetsavaliya111 |
 | 46. | **Team 171** | 5 | 1 | 1 | Code_duel_frontend | @Aelees0807 |
@@ -87,39 +87,39 @@
 | 22. | @unnatii14 | Team 153 | 30 | 3 | PDF_QA_Bot, CareXpert_backend |
 | 23. | @Pratham3900 | Team 036 | 30 | 3 | Zaplink_frontend, Zaplink_backend, PDF_QA_Bot |
 | 24. | @harshitpambhar | Team 155 | 30 | 3 | super-roast-bot, FMEA_SupplyChain |
-| 25. | @Ansh-dhanani | Team 087 | 25 | 2 | super-roast-bot, Zaplink_backend |
-| 26. | @Ommodi07 | Team 80 | 25 | 2 | FMEA_SupplyChain |
-| 27. | @7JankiPanchal | Team 113 | 25 | 2 | Code_duel_frontend, CareXpert_frontend |
-| 28. | @kevaljogani | Team 163 | 25 | 2 | PDF_QA_Bot |
-| 29. | @DeepPatel4505 | Team 83 | 25 | 2 | Zaplink_backend, PDF_QA_Bot |
-| 30. | @dhrumil246 | Team 150 | 25 | 2 | CareXpert_backend |
-| 31. | @DakshSavani13 | Team 170 | 25 | 2 | CareXpert_backend, CareXpert_frontend |
-| 32. | @Mahi1206 | Team 146 | 25 | 2 | CareXpert_frontend, FMEA_SupplyChain |
-| 33. | @Sp2736 | Team 107 | 25 | 2 | CareXpert_frontend, Zaplink_frontend |
-| 34. | @PrinceDiyora | Team 124 | 20 | 4 | Zaplink_frontend, CareXpert_frontend |
-| 35. | @vraj826 | Team 120 | 20 | 1 | PDF_QA_Bot |
-| 36. | @devvpin | Team 167 | 20 | 1 | Code_duel_frontend |
-| 37. | @Jerry-145 | Team 161 | 20 | 1 | CareXpert_frontend |
-| 38. | @mayankpadmani | Team 168 | 20 | 1 | Code_duel_backend |
-| 39. | @NishitPDesai | Team 83 | 20 | 1 | CareXpert_backend |
-| 40. | @Ronit069 | Team 146 | 20 | 1 | CareXpert_backend |
-| 41. | @PATELSHAIL7125 | Team 102 | 20 | 1 | CareXpert_frontend |
-| 42. | @PatelAaryan03 | Team 126 | 20 | 1 | CareXpert_backend |
-| 43. | @DarshitSorathiya | Team 131 | 20 | 1 | super-roast-bot |
-| 44. | @Aryanghadiya | Team 132 | 20 | 1 | super-roast-bot |
-| 45. | @Raxnakum11 | Team 186 | 20 | 1 | super-roast-bot |
-| 46. | @Manthann07 | Team 102 | 20 | 1 | Zaplink_backend |
-| 47. | @DeepMakwana-18 | Team 132 | 20 | 1 | Zaplink_frontend |
-| 48. | @kushpatel2601 | Team 072 | 15 | 3 | Zaplink_frontend, PDF_QA_Bot, super-roast-bot |
-| 49. | @24cs062 | Team 188 | 15 | 3 | Zaplink_backend, CareXpert_backend |
-| 50. | @samarthpatel2005 | Team 065 | 15 | 3 | Zaplink_frontend, CareXpert_backend |
-| 51. | @ohmbhatia | Team 101 | 10 | 2 | CareXpert_frontend |
-| 52. | @HeerGhevariya | Team 119 | 10 | 2 | CareXpert_frontend |
-| 53. | @Mathakiya-Amal | Team 132 | 10 | 2 | PDF_QA_Bot, CareXpert_frontend |
-| 54. | @smitgoyani123 | Team 119 | 10 | 2 | Code_duel_frontend, CareXpert_frontend |
-| 55. | @hindochahitarth | Team 137 | 10 | 2 | Zaplink_frontend |
-| 56. | @Dhruvi-kanabar30 | Team 146 | 10 | 2 | Zaplink_backend |
-| 57. | @renanaik | Team 144 | 10 | 2 | FMEA_SupplyChain |
+| 25. | @renanaik | Team 144 | 30 | 3 | FMEA_SupplyChain, CareXpert_backend |
+| 26. | @Ansh-dhanani | Team 087 | 25 | 2 | super-roast-bot, Zaplink_backend |
+| 27. | @Ommodi07 | Team 80 | 25 | 2 | FMEA_SupplyChain |
+| 28. | @7JankiPanchal | Team 113 | 25 | 2 | Code_duel_frontend, CareXpert_frontend |
+| 29. | @kevaljogani | Team 163 | 25 | 2 | PDF_QA_Bot |
+| 30. | @DeepPatel4505 | Team 83 | 25 | 2 | Zaplink_backend, PDF_QA_Bot |
+| 31. | @dhrumil246 | Team 150 | 25 | 2 | CareXpert_backend |
+| 32. | @DakshSavani13 | Team 170 | 25 | 2 | CareXpert_backend, CareXpert_frontend |
+| 33. | @Mahi1206 | Team 146 | 25 | 2 | CareXpert_frontend, FMEA_SupplyChain |
+| 34. | @Sp2736 | Team 107 | 25 | 2 | CareXpert_frontend, Zaplink_frontend |
+| 35. | @PrinceDiyora | Team 124 | 20 | 4 | Zaplink_frontend, CareXpert_frontend |
+| 36. | @vraj826 | Team 120 | 20 | 1 | PDF_QA_Bot |
+| 37. | @devvpin | Team 167 | 20 | 1 | Code_duel_frontend |
+| 38. | @Jerry-145 | Team 161 | 20 | 1 | CareXpert_frontend |
+| 39. | @mayankpadmani | Team 168 | 20 | 1 | Code_duel_backend |
+| 40. | @NishitPDesai | Team 83 | 20 | 1 | CareXpert_backend |
+| 41. | @Ronit069 | Team 146 | 20 | 1 | CareXpert_backend |
+| 42. | @PATELSHAIL7125 | Team 102 | 20 | 1 | CareXpert_frontend |
+| 43. | @PatelAaryan03 | Team 126 | 20 | 1 | CareXpert_backend |
+| 44. | @DarshitSorathiya | Team 131 | 20 | 1 | super-roast-bot |
+| 45. | @Aryanghadiya | Team 132 | 20 | 1 | super-roast-bot |
+| 46. | @Raxnakum11 | Team 186 | 20 | 1 | super-roast-bot |
+| 47. | @Manthann07 | Team 102 | 20 | 1 | Zaplink_backend |
+| 48. | @DeepMakwana-18 | Team 132 | 20 | 1 | Zaplink_frontend |
+| 49. | @kushpatel2601 | Team 072 | 15 | 3 | Zaplink_frontend, PDF_QA_Bot, super-roast-bot |
+| 50. | @24cs062 | Team 188 | 15 | 3 | Zaplink_backend, CareXpert_backend |
+| 51. | @samarthpatel2005 | Team 065 | 15 | 3 | Zaplink_frontend, CareXpert_backend |
+| 52. | @ohmbhatia | Team 101 | 10 | 2 | CareXpert_frontend |
+| 53. | @HeerGhevariya | Team 119 | 10 | 2 | CareXpert_frontend |
+| 54. | @Mathakiya-Amal | Team 132 | 10 | 2 | PDF_QA_Bot, CareXpert_frontend |
+| 55. | @smitgoyani123 | Team 119 | 10 | 2 | Code_duel_frontend, CareXpert_frontend |
+| 56. | @hindochahitarth | Team 137 | 10 | 2 | Zaplink_frontend |
+| 57. | @Dhruvi-kanabar30 | Team 146 | 10 | 2 | Zaplink_backend |
 | 58. | @princedesai012 | Team 123 | 5 | 1 | Zaplink_backend |
 | 59. | @manthan2876 | Team 109 | 5 | 1 | CareXpert_backend |
 | 60. | @rishi-sheladiya-26 | Team 123 | 5 | 1 | Code_duel_frontend |

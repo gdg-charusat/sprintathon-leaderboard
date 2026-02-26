@@ -524,13 +524,14 @@
       ]
     },
     "Team 144": {
-      "points": 10,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "contributors": [
         "renanaik"
       ],
       "repos": [
-        "FMEA_SupplyChain"
+        "FMEA_SupplyChain",
+        "CareXpert_backend"
       ]
     },
     "Team 147": {
@@ -1109,11 +1110,12 @@
       ]
     },
     "renanaik": {
-      "points": 10,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "team": "Team 144",
       "repos": [
-        "FMEA_SupplyChain"
+        "FMEA_SupplyChain",
+        "CareXpert_backend"
       ]
     },
     "Aryan-B-Parikh": {
