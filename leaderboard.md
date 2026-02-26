@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Thu, 26 Feb 2026 17:05:09 GMT
+> **Last Updated:** Thu, 26 Feb 2026 17:19:33 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -15,7 +15,7 @@
 | 4. | **Team 125** | 135 | 9 | 2 | CareXpert_frontend, Zaplink_frontend | @Diyap235, @Yashvi29-power |
 | 5. | **Team 149** | 125 | 10 | 1 | Zaplink_frontend, CareXpert_frontend, FMEA_SupplyChain, super-roast-bot, PDF_QA_Bot | @RutviShah2 |
 | 6. | **Team 135** | 110 | 7 | 2 | PDF_QA_Bot, Zaplink_frontend | @JainiSolanki, @HetviHR |
-| 7. | **Team 146** | 90 | 6 | 4 | Zaplink_backend, CareXpert_backend, CareXpert_frontend, FMEA_SupplyChain | @Dhruvi-kanabar30, @Ronit069, @Mahi1206, @Aryan-B-Parikh |
+| 7. | **Team 146** | 110 | 7 | 4 | Zaplink_backend, CareXpert_backend, CareXpert_frontend, FMEA_SupplyChain | @Dhruvi-kanabar30, @Ronit069, @Mahi1206, @Aryan-B-Parikh |
 | 8. | **Team 150** | 70 | 5 | 2 | Code_duel_frontend, PDF_QA_Bot, CareXpert_backend | @Akshat14z, @dhrumil246 |
 | 9. | **Team 065** | 65 | 7 | 3 | CareXpert_backend, CareXpert_frontend, Zaplink_backend, Zaplink_frontend | @Ashok089, @Shubhp0712, @samarthpatel2005 |
 | 10. | **Team 082** | 65 | 4 | 1 | CareXpert_backend, Zaplink_backend, PDF_QA_Bot | @dhruvpatel848 |
@@ -71,16 +71,16 @@
 | 6. | @dhruvpatel848 | Team 082 | 65 | 4 | CareXpert_backend, PDF_QA_Bot, Zaplink_backend |
 | 7. | @chaitany851P | Team 066 | 65 | 4 | Code_duel_backend, super-roast-bot, Zaplink_backend |
 | 8. | @HetviHR | Team 135 | 60 | 3 | PDF_QA_Bot |
-| 9. | @JainiSolanki | Team 135 | 50 | 4 | PDF_QA_Bot, Zaplink_frontend |
-| 10. | @Talaviya-Sarthak | Team 152 | 50 | 4 | Zaplink_backend, CareXpert_backend |
-| 11. | @Ashok089 | Team 065 | 45 | 3 | CareXpert_backend, CareXpert_frontend |
-| 12. | @Akshat14z | Team 150 | 45 | 3 | Code_duel_frontend, PDF_QA_Bot |
-| 13. | @kunj01 | Team 124 | 45 | 3 | Zaplink_frontend, CareXpert_frontend |
-| 14. | @satanismit | Team 165 | 45 | 3 | PDF_QA_Bot |
-| 15. | @BhavyaManvar | Team 177 | 40 | 2 | super-roast-bot, CareXpert_frontend |
-| 16. | @HEETMEHTA18 | Team 143 | 40 | 2 | Zaplink_frontend, FMEA_SupplyChain |
-| 17. | @Yashvi29-power | Team 125 | 40 | 2 | Zaplink_frontend |
-| 18. | @Aryan-B-Parikh | Team 146 | 40 | 2 | FMEA_SupplyChain, CareXpert_frontend |
+| 9. | @Aryan-B-Parikh | Team 146 | 60 | 3 | FMEA_SupplyChain, CareXpert_frontend, CareXpert_backend |
+| 10. | @JainiSolanki | Team 135 | 50 | 4 | PDF_QA_Bot, Zaplink_frontend |
+| 11. | @Talaviya-Sarthak | Team 152 | 50 | 4 | Zaplink_backend, CareXpert_backend |
+| 12. | @Ashok089 | Team 065 | 45 | 3 | CareXpert_backend, CareXpert_frontend |
+| 13. | @Akshat14z | Team 150 | 45 | 3 | Code_duel_frontend, PDF_QA_Bot |
+| 14. | @kunj01 | Team 124 | 45 | 3 | Zaplink_frontend, CareXpert_frontend |
+| 15. | @satanismit | Team 165 | 45 | 3 | PDF_QA_Bot |
+| 16. | @BhavyaManvar | Team 177 | 40 | 2 | super-roast-bot, CareXpert_frontend |
+| 17. | @HEETMEHTA18 | Team 143 | 40 | 2 | Zaplink_frontend, FMEA_SupplyChain |
+| 18. | @Yashvi29-power | Team 125 | 40 | 2 | Zaplink_frontend |
 | 19. | @Yashgohel018 | Team 187 | 40 | 2 | CareXpert_frontend, Zaplink_frontend |
 | 20. | @surejasmit | Team 152 | 40 | 2 | PDF_QA_Bot, super-roast-bot |
 | 21. | @unnatii14 | Team 153 | 30 | 3 | PDF_QA_Bot, CareXpert_backend |

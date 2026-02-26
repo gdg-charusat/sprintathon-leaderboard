@@ -415,8 +415,8 @@
       ]
     },
     "Team 146": {
-      "points": 90,
-      "prs": 6,
+      "points": 110,
+      "prs": 7,
       "contributors": [
         "Dhruvi-kanabar30",
         "Ronit069",
@@ -1110,12 +1110,13 @@
       ]
     },
     "Aryan-B-Parikh": {
-      "points": 40,
-      "prs": 2,
+      "points": 60,
+      "prs": 3,
       "team": "Team 146",
       "repos": [
         "FMEA_SupplyChain",
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "CareXpert_backend"
       ]
     },
     "Manthann07": {
