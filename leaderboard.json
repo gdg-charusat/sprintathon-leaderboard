@@ -235,10 +235,11 @@
       ]
     },
     "Team 153": {
-      "points": 30,
-      "prs": 3,
+      "points": 35,
+      "prs": 4,
       "contributors": [
-        "unnatii14"
+        "unnatii14",
+        "Anshu-bhatt"
       ],
       "repos": [
         "PDF_QA_Bot",
@@ -1179,6 +1180,14 @@
       "team": "Team 065",
       "repos": [
         "Zaplink_frontend"
+      ]
+    },
+    "Anshu-bhatt": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 153",
+      "repos": [
+        "PDF_QA_Bot"
       ]
     }
   }

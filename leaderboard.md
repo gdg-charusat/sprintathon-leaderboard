@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Thu, 26 Feb 2026 12:58:55 GMT
+> **Last Updated:** Thu, 26 Feb 2026 14:59:42 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -27,9 +27,9 @@
 | 16. | **Team 83** | 45 | 3 | 2 | Zaplink_backend, CareXpert_backend, PDF_QA_Bot | @DeepPatel4505, @NishitPDesai |
 | 17. | **Team 102** | 45 | 3 | 3 | CareXpert_frontend, CareXpert_backend, Zaplink_backend | @PATELSHAIL7125, @MayankT1409, @Manthann07 |
 | 18. | **Team 187** | 40 | 2 | 1 | CareXpert_frontend, Zaplink_frontend | @Yashgohel018 |
-| 19. | **Team 036** | 35 | 4 | 2 | Zaplink_frontend, CareXpert_backend, Zaplink_backend, PDF_QA_Bot | @Pratham3900, @pratham-25mca046 |
-| 20. | **Team 155** | 35 | 4 | 2 | super-roast-bot, FMEA_SupplyChain | @KavyDave18, @harshitpambhar |
-| 21. | **Team 153** | 30 | 3 | 1 | PDF_QA_Bot, CareXpert_backend | @unnatii14 |
+| 19. | **Team 153** | 35 | 4 | 2 | PDF_QA_Bot, CareXpert_backend | @unnatii14, @Anshu-bhatt |
+| 20. | **Team 036** | 35 | 4 | 2 | Zaplink_frontend, CareXpert_backend, Zaplink_backend, PDF_QA_Bot | @Pratham3900, @pratham-25mca046 |
+| 21. | **Team 155** | 35 | 4 | 2 | super-roast-bot, FMEA_SupplyChain | @KavyDave18, @harshitpambhar |
 | 22. | **Team 113** | 30 | 3 | 2 | Code_duel_frontend, CareXpert_frontend, Zaplink_frontend | @7JankiPanchal, @sneha029 |
 | 23. | **Team 163** | 30 | 3 | 2 | PDF_QA_Bot, CareXpert_backend | @kevaljogani, @DaxGondaliya |
 | 24. | **Team 087** | 25 | 2 | 1 | super-roast-bot, Zaplink_backend | @Ansh-dhanani |
@@ -136,6 +136,7 @@
 | 71. | @Deepbhalani1277 | Team 147 | 5 | 1 | FMEA_SupplyChain |
 | 72. | @Shubhp0712 | Team 065 | 5 | 1 | Zaplink_backend |
 | 73. | @sneha029 | Team 113 | 5 | 1 | Zaplink_frontend |
+| 74. | @Anshu-bhatt | Team 153 | 5 | 1 | PDF_QA_Bot |
 
 ---
 
