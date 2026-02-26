@@ -227,8 +227,8 @@
       ]
     },
     "Team 143": {
-      "points": 50,
-      "prs": 4,
+      "points": 55,
+      "prs": 5,
       "contributors": [
         "HEETMEHTA18",
         "AryanPatelD",
@@ -746,12 +746,13 @@
       ]
     },
     "HEETMEHTA18": {
-      "points": 40,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "team": "Team 143",
       "repos": [
         "Zaplink_frontend",
-        "FMEA_SupplyChain"
+        "FMEA_SupplyChain",
+        "Code_duel_frontend"
       ]
     },
     "unnatii14": {

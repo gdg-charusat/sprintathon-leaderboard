@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Thu, 26 Feb 2026 17:37:01 GMT
+> **Last Updated:** Thu, 26 Feb 2026 17:46:43 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -20,7 +20,7 @@
 | 9. | **Team 065** | 65 | 7 | 3 | CareXpert_backend, CareXpert_frontend, Zaplink_backend, Zaplink_frontend | @Ashok089, @Shubhp0712, @samarthpatel2005 |
 | 10. | **Team 082** | 65 | 4 | 1 | CareXpert_backend, Zaplink_backend, PDF_QA_Bot | @dhruvpatel848 |
 | 11. | **Team 066** | 65 | 4 | 1 | Code_duel_backend, super-roast-bot, Zaplink_backend | @chaitany851P |
-| 12. | **Team 143** | 50 | 4 | 3 | Zaplink_frontend, Zaplink_backend, FMEA_SupplyChain, Code_duel_frontend | @HEETMEHTA18, @AryanPatelD, @KrishPatel1905 |
+| 12. | **Team 143** | 55 | 5 | 3 | Zaplink_frontend, Zaplink_backend, FMEA_SupplyChain, Code_duel_frontend | @HEETMEHTA18, @AryanPatelD, @KrishPatel1905 |
 | 13. | **Team 132** | 50 | 4 | 3 | PDF_QA_Bot, CareXpert_frontend, super-roast-bot, Zaplink_frontend | @Mathakiya-Amal, @Aryanghadiya, @DeepMakwana-18 |
 | 14. | **Team 177** | 45 | 3 | 2 | super-roast-bot, CareXpert_frontend | @BhavyaManvar, @ybthummar |
 | 15. | **Team 165** | 45 | 3 | 1 | PDF_QA_Bot | @satanismit |
@@ -77,9 +77,9 @@
 | 12. | @Ashok089 | Team 065 | 45 | 3 | CareXpert_backend, CareXpert_frontend |
 | 13. | @Akshat14z | Team 150 | 45 | 3 | Code_duel_frontend, PDF_QA_Bot |
 | 14. | @kunj01 | Team 124 | 45 | 3 | Zaplink_frontend, CareXpert_frontend |
-| 15. | @satanismit | Team 165 | 45 | 3 | PDF_QA_Bot |
-| 16. | @BhavyaManvar | Team 177 | 40 | 2 | super-roast-bot, CareXpert_frontend |
-| 17. | @HEETMEHTA18 | Team 143 | 40 | 2 | Zaplink_frontend, FMEA_SupplyChain |
+| 15. | @HEETMEHTA18 | Team 143 | 45 | 3 | Zaplink_frontend, FMEA_SupplyChain, Code_duel_frontend |
+| 16. | @satanismit | Team 165 | 45 | 3 | PDF_QA_Bot |
+| 17. | @BhavyaManvar | Team 177 | 40 | 2 | super-roast-bot, CareXpert_frontend |
 | 18. | @Yashvi29-power | Team 125 | 40 | 2 | Zaplink_frontend |
 | 19. | @Yashgohel018 | Team 187 | 40 | 2 | CareXpert_frontend, Zaplink_frontend |
 | 20. | @surejasmit | Team 152 | 40 | 2 | PDF_QA_Bot, super-roast-bot |
