@@ -460,14 +460,15 @@
       ]
     },
     "Team 155": {
-      "points": 15,
-      "prs": 3,
+      "points": 35,
+      "prs": 4,
       "contributors": [
         "KavyDave18",
         "harshitpambhar"
       ],
       "repos": [
-        "super-roast-bot"
+        "super-roast-bot",
+        "FMEA_SupplyChain"
       ]
     },
     "Team 171": {
@@ -1080,11 +1081,12 @@
       ]
     },
     "harshitpambhar": {
-      "points": 10,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "team": "Team 155",
       "repos": [
-        "super-roast-bot"
+        "super-roast-bot",
+        "FMEA_SupplyChain"
       ]
     },
     "renanaik": {
