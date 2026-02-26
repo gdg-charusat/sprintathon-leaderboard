@@ -1,8 +1,8 @@
 {
   "teams": {
     "Team 124": {
-      "points": 130,
-      "prs": 11,
+      "points": 135,
+      "prs": 12,
       "contributors": [
         "PrinceDiyora",
         "kunj01",
@@ -11,7 +11,8 @@
       "repos": [
         "Zaplink_frontend",
         "CareXpert_frontend",
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "CareXpert_backend"
       ]
     },
     "Team 173": {
@@ -918,12 +919,13 @@
       ]
     },
     "RudraDudhat": {
-      "points": 65,
-      "prs": 4,
+      "points": 70,
+      "prs": 5,
       "team": "Team 124",
       "repos": [
         "Zaplink_backend",
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "CareXpert_backend"
       ]
     },
     "Talaviya-Sarthak": {
