@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Thu, 26 Feb 2026 16:18:48 GMT
+> **Last Updated:** Thu, 26 Feb 2026 16:42:47 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -20,9 +20,9 @@
 | 9. | **Team 065** | 65 | 7 | 3 | CareXpert_backend, CareXpert_frontend, Zaplink_backend, Zaplink_frontend | @Ashok089, @Shubhp0712, @samarthpatel2005 |
 | 10. | **Team 082** | 65 | 4 | 1 | CareXpert_backend, Zaplink_backend, PDF_QA_Bot | @dhruvpatel848 |
 | 11. | **Team 066** | 65 | 4 | 1 | Code_duel_backend, super-roast-bot, Zaplink_backend | @chaitany851P |
-| 12. | **Team 132** | 50 | 4 | 3 | PDF_QA_Bot, CareXpert_frontend, super-roast-bot, Zaplink_frontend | @Mathakiya-Amal, @Aryanghadiya, @DeepMakwana-18 |
-| 13. | **Team 177** | 45 | 3 | 2 | super-roast-bot, CareXpert_frontend | @BhavyaManvar, @ybthummar |
-| 14. | **Team 143** | 45 | 3 | 2 | Zaplink_frontend, Zaplink_backend, FMEA_SupplyChain | @HEETMEHTA18, @AryanPatelD |
+| 12. | **Team 143** | 50 | 4 | 3 | Zaplink_frontend, Zaplink_backend, FMEA_SupplyChain, Code_duel_frontend | @HEETMEHTA18, @AryanPatelD, @KrishPatel1905 |
+| 13. | **Team 132** | 50 | 4 | 3 | PDF_QA_Bot, CareXpert_frontend, super-roast-bot, Zaplink_frontend | @Mathakiya-Amal, @Aryanghadiya, @DeepMakwana-18 |
+| 14. | **Team 177** | 45 | 3 | 2 | super-roast-bot, CareXpert_frontend | @BhavyaManvar, @ybthummar |
 | 15. | **Team 165** | 45 | 3 | 1 | PDF_QA_Bot | @satanismit |
 | 16. | **Team 83** | 45 | 3 | 2 | Zaplink_backend, CareXpert_backend, PDF_QA_Bot | @DeepPatel4505, @NishitPDesai |
 | 17. | **Team 102** | 45 | 3 | 3 | CareXpert_frontend, CareXpert_backend, Zaplink_backend | @PATELSHAIL7125, @MayankT1409, @Manthann07 |
@@ -139,6 +139,7 @@
 | 74. | @Anshu-bhatt | Team 153 | 5 | 1 | PDF_QA_Bot |
 | 75. | @Pushtikansara | Team 138 | 5 | 1 | CareXpert_backend |
 | 76. | @Hetrajj07 | Team 126 | 5 | 1 | CareXpert_backend |
+| 77. | @KrishPatel1905 | Team 143 | 5 | 1 | Code_duel_frontend |
 
 ---
 

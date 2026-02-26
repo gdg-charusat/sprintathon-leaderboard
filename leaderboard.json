@@ -223,16 +223,18 @@
       ]
     },
     "Team 143": {
-      "points": 45,
-      "prs": 3,
+      "points": 50,
+      "prs": 4,
       "contributors": [
         "HEETMEHTA18",
-        "AryanPatelD"
+        "AryanPatelD",
+        "KrishPatel1905"
       ],
       "repos": [
         "Zaplink_frontend",
         "Zaplink_backend",
-        "FMEA_SupplyChain"
+        "FMEA_SupplyChain",
+        "Code_duel_frontend"
       ]
     },
     "Team 153": {
@@ -1210,6 +1212,14 @@
       "team": "Team 126",
       "repos": [
         "CareXpert_backend"
+      ]
+    },
+    "KrishPatel1905": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 143",
+      "repos": [
+        "Code_duel_frontend"
       ]
     }
   }
