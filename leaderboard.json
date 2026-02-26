@@ -319,8 +319,8 @@
       ]
     },
     "Team 036": {
-      "points": 15,
-      "prs": 3,
+      "points": 35,
+      "prs": 4,
       "contributors": [
         "Pratham3900",
         "pratham-25mca046"
@@ -328,7 +328,8 @@
       "repos": [
         "Zaplink_frontend",
         "CareXpert_backend",
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "PDF_QA_Bot"
       ]
     },
     "Team 137": {
@@ -830,12 +831,13 @@
       ]
     },
     "Pratham3900": {
-      "points": 10,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "team": "Team 036",
       "repos": [
         "Zaplink_frontend",
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "PDF_QA_Bot"
       ]
     },
     "hindochahitarth": {
