@@ -16,8 +16,8 @@
       ]
     },
     "Team 173": {
-      "points": 190,
-      "prs": 14,
+      "points": 210,
+      "prs": 15,
       "contributors": [
         "vasu-CE"
       ],
@@ -26,7 +26,8 @@
         "Code_duel_backend",
         "PDF_QA_Bot",
         "Zaplink_backend",
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "CareXpert_backend"
       ]
     },
     "Team 152": {
@@ -576,15 +577,16 @@
       ]
     },
     "vasu-CE": {
-      "points": 190,
-      "prs": 14,
+      "points": 210,
+      "prs": 15,
       "team": "Team 173",
       "repos": [
         "Code_duel_frontend",
         "Code_duel_backend",
         "PDF_QA_Bot",
         "Zaplink_backend",
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "CareXpert_backend"
       ]
     },
     "Krish3017": {
