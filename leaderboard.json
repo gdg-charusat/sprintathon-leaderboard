@@ -374,13 +374,15 @@
       ]
     },
     "Team 168": {
-      "points": 20,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "contributors": [
-        "mayankpadmani"
+        "mayankpadmani",
+        "neel92654"
       ],
       "repos": [
-        "Code_duel_backend"
+        "Code_duel_backend",
+        "PDF_QA_Bot"
       ]
     },
     "Team 188": {
@@ -1240,6 +1242,14 @@
       "team": "Team 143",
       "repos": [
         "Code_duel_frontend"
+      ]
+    },
+    "neel92654": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 168",
+      "repos": [
+        "PDF_QA_Bot"
       ]
     }
   }
