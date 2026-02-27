@@ -298,8 +298,8 @@
       ]
     },
     "Team 132": {
-      "points": 50,
-      "prs": 4,
+      "points": 70,
+      "prs": 5,
       "contributors": [
         "Mathakiya-Amal",
         "Aryanghadiya",
@@ -309,7 +309,8 @@
         "PDF_QA_Bot",
         "CareXpert_frontend",
         "super-roast-bot",
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "Code_duel_frontend"
       ]
     },
     "Team 114": {
@@ -823,12 +824,13 @@
       ]
     },
     "Mathakiya-Amal": {
-      "points": 10,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "team": "Team 132",
       "repos": [
         "PDF_QA_Bot",
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Code_duel_frontend"
       ]
     },
     "smitgoyani123": {
