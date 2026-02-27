@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Fri, 27 Feb 2026 11:16:42 GMT
+> **Last Updated:** Fri, 27 Feb 2026 11:28:24 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -9,7 +9,7 @@
 
 | Rank | Team | Total Points | PRs Merged | Members | Active Repos | Contributors |
 |------|------|:------------:|:----------:|:-------:|--------------|---------------|
-| 🥇 | **Team 173** | 230 | 16 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend, Zaplink_frontend, CareXpert_backend | @vasu-CE |
+| 🥇 | **Team 173** | 250 | 17 | 1 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend, Zaplink_frontend, CareXpert_backend, CareXpert_frontend | @vasu-CE |
 | 🥈 | **Team 152** | 210 | 18 | 3 | PDF_QA_Bot, Code_duel_frontend, Zaplink_backend, CareXpert_backend, CareXpert_frontend, super-roast-bot | @Krish3017, @Talaviya-Sarthak, @surejasmit |
 | 🥉 | **Team 125** | 165 | 12 | 2 | CareXpert_frontend, Zaplink_frontend, Code_duel_frontend | @Diyap235, @Yashvi29-power |
 | 4. | **Team 124** | 135 | 12 | 3 | Zaplink_frontend, CareXpert_frontend, Zaplink_backend, CareXpert_backend | @PrinceDiyora, @kunj01, @RudraDudhat |
@@ -63,7 +63,7 @@
 
 | Rank | GitHub | Team | Points | PRs Merged | Repos |
 |------|--------|------|:------:|:----------:|-------|
-| 🥇 | @vasu-CE | Team 173 | 230 | 16 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend, Zaplink_frontend, CareXpert_backend |
+| 🥇 | @vasu-CE | Team 173 | 250 | 17 | Code_duel_frontend, Code_duel_backend, PDF_QA_Bot, Zaplink_backend, Zaplink_frontend, CareXpert_backend, CareXpert_frontend |
 | 🥈 | @RutviShah2 | Team 149 | 125 | 10 | Zaplink_frontend, CareXpert_frontend, FMEA_SupplyChain, super-roast-bot, PDF_QA_Bot |
 | 🥉 | @Krish3017 | Team 152 | 120 | 12 | PDF_QA_Bot, Code_duel_frontend, CareXpert_backend, Zaplink_backend, CareXpert_frontend |
 | 4. | @Diyap235 | Team 125 | 120 | 9 | CareXpert_frontend, Code_duel_frontend |
