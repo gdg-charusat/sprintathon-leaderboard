@@ -1,8 +1,8 @@
 {
   "teams": {
     "Team 124": {
-      "points": 195,
-      "prs": 15,
+      "points": 215,
+      "prs": 16,
       "contributors": [
         "PrinceDiyora",
         "kunj01",
@@ -946,8 +946,8 @@
       ]
     },
     "RudraDudhat": {
-      "points": 110,
-      "prs": 7,
+      "points": 130,
+      "prs": 8,
       "team": "Team 124",
       "repos": [
         "Zaplink_backend",
