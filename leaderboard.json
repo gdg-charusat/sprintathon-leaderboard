@@ -458,8 +458,8 @@
       ]
     },
     "Team 102": {
-      "points": 45,
-      "prs": 3,
+      "points": 65,
+      "prs": 4,
       "contributors": [
         "PATELSHAIL7125",
         "MayankT1409",
@@ -468,7 +468,8 @@
       "repos": [
         "CareXpert_frontend",
         "CareXpert_backend",
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "PDF_QA_Bot"
       ]
     },
     "Team 155": {
@@ -1133,11 +1134,12 @@
       ]
     },
     "Manthann07": {
-      "points": 20,
-      "prs": 1,
+      "points": 40,
+      "prs": 2,
       "team": "Team 102",
       "repos": [
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "PDF_QA_Bot"
       ]
     },
     "Deepbhalani1277": {
