@@ -146,8 +146,8 @@
       ]
     },
     "Team 119": {
-      "points": 20,
-      "prs": 4,
+      "points": 25,
+      "prs": 5,
       "contributors": [
         "HeerGhevariya",
         "smitgoyani123"
@@ -840,8 +840,8 @@
       ]
     },
     "smitgoyani123": {
-      "points": 10,
-      "prs": 2,
+      "points": 15,
+      "prs": 3,
       "team": "Team 119",
       "repos": [
         "Code_duel_frontend",
