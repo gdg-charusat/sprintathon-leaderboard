@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Fri, 27 Feb 2026 22:24:34 GMT
+> **Last Updated:** Fri, 27 Feb 2026 22:28:24 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -53,9 +53,9 @@
 | 42. | **Team 188** | 15 | 3 | 1 | Zaplink_backend, CareXpert_backend | @24cs062 |
 | 43. | **Team 123** | 10 | 2 | 2 | Zaplink_backend, Code_duel_frontend | @princedesai012, @rishi-sheladiya-26 |
 | 44. | **Team 137** | 10 | 2 | 1 | Zaplink_frontend | @hindochahitarth |
-| 45. | **Team 114** | 5 | 1 | 1 | Code_duel_frontend | @Preetsavaliya111 |
-| 46. | **Team 171** | 5 | 1 | 1 | Code_duel_frontend | @Aelees0807 |
-| 47. | **Team 147** | 5 | 1 | 1 | FMEA_SupplyChain | @Deepbhalani1277 |
+| 45. | **Team 147** | 10 | 2 | 2 | FMEA_SupplyChain, Code_duel_backend | @Deepbhalani1277, @PrIyAnSh095 |
+| 46. | **Team 114** | 5 | 1 | 1 | Code_duel_frontend | @Preetsavaliya111 |
+| 47. | **Team 171** | 5 | 1 | 1 | Code_duel_frontend | @Aelees0807 |
 
 ---
 
@@ -145,6 +145,7 @@
 | 80. | @KrishPatel1905 | Team 143 | 5 | 1 | Code_duel_frontend |
 | 81. | @neel92654 | Team 168 | 5 | 1 | PDF_QA_Bot |
 | 82. | @SakshiKadegiya | Team 138 | 5 | 1 | Zaplink_frontend |
+| 83. | @PrIyAnSh095 | Team 147 | 5 | 1 | Code_duel_backend |
 
 ---
 

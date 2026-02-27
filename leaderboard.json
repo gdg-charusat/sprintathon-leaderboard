@@ -559,13 +559,15 @@
       ]
     },
     "Team 147": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "contributors": [
-        "Deepbhalani1277"
+        "Deepbhalani1277",
+        "PrIyAnSh095"
       ],
       "repos": [
-        "FMEA_SupplyChain"
+        "FMEA_SupplyChain",
+        "Code_duel_backend"
       ]
     },
     "Team 107": {
@@ -1316,6 +1318,14 @@
       "team": "Team 138",
       "repos": [
         "Zaplink_frontend"
+      ]
+    },
+    "PrIyAnSh095": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 147",
+      "repos": [
+        "Code_duel_backend"
       ]
     }
   }
