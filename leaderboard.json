@@ -503,8 +503,8 @@
       ]
     },
     "Team 126": {
-      "points": 25,
-      "prs": 2,
+      "points": 30,
+      "prs": 3,
       "contributors": [
         "PatelAaryan03",
         "Hetrajj07"
@@ -1239,8 +1239,8 @@
       ]
     },
     "Hetrajj07": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "team": "Team 126",
       "repos": [
         "CareXpert_backend"
