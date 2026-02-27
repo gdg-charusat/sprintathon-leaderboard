@@ -107,8 +107,8 @@
       ]
     },
     "Team 052": {
-      "points": 30,
-      "prs": 6,
+      "points": 50,
+      "prs": 7,
       "contributors": [
         "atul-upadhyay-7"
       ],
@@ -116,7 +116,8 @@
         "Zaplink_frontend",
         "super-roast-bot",
         "CareXpert_frontend",
-        "FMEA_SupplyChain"
+        "FMEA_SupplyChain",
+        "Zaplink_backend"
       ]
     },
     "Team 123": {
@@ -662,14 +663,15 @@
       ]
     },
     "atul-upadhyay-7": {
-      "points": 30,
-      "prs": 6,
+      "points": 50,
+      "prs": 7,
       "team": "Team 052",
       "repos": [
         "Zaplink_frontend",
         "super-roast-bot",
         "CareXpert_frontend",
-        "FMEA_SupplyChain"
+        "FMEA_SupplyChain",
+        "Zaplink_backend"
       ]
     },
     "princedesai012": {
