@@ -33,8 +33,8 @@
       ]
     },
     "Team 152": {
-      "points": 220,
-      "prs": 20,
+      "points": 240,
+      "prs": 21,
       "contributors": [
         "Krish3017",
         "Talaviya-Sarthak",
@@ -47,7 +47,8 @@
         "CareXpert_backend",
         "CareXpert_frontend",
         "super-roast-bot",
-        "FMEA_SupplyChain"
+        "FMEA_SupplyChain",
+        "Zaplink_frontend"
       ]
     },
     "Team 177": {
@@ -612,15 +613,16 @@
       ]
     },
     "Krish3017": {
-      "points": 125,
-      "prs": 13,
+      "points": 145,
+      "prs": 14,
       "team": "Team 152",
       "repos": [
         "PDF_QA_Bot",
         "Code_duel_frontend",
         "CareXpert_backend",
         "Zaplink_backend",
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Zaplink_frontend"
       ]
     },
     "BhavyaManvar": {
