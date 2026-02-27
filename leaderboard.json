@@ -1,8 +1,8 @@
 {
   "teams": {
     "Team 124": {
-      "points": 265,
-      "prs": 20,
+      "points": 285,
+      "prs": 21,
       "contributors": [
         "PrinceDiyora",
         "kunj01",
@@ -374,8 +374,8 @@
       ]
     },
     "Team 066": {
-      "points": 65,
-      "prs": 4,
+      "points": 70,
+      "prs": 5,
       "contributors": [
         "chaitany851P"
       ],
@@ -596,8 +596,8 @@
   },
   "contributors": {
     "PrinceDiyora": {
-      "points": 25,
-      "prs": 5,
+      "points": 45,
+      "prs": 6,
       "team": "Team 124",
       "repos": [
         "Zaplink_frontend",
@@ -920,8 +920,8 @@
       ]
     },
     "chaitany851P": {
-      "points": 65,
-      "prs": 4,
+      "points": 70,
+      "prs": 5,
       "team": "Team 066",
       "repos": [
         "Code_duel_backend",
