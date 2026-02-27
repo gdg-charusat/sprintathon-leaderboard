@@ -182,8 +182,8 @@
       ]
     },
     "Team 065": {
-      "points": 65,
-      "prs": 7,
+      "points": 70,
+      "prs": 8,
       "contributors": [
         "Ashok089",
         "Shubhp0712",
@@ -193,7 +193,8 @@
         "CareXpert_backend",
         "CareXpert_frontend",
         "Zaplink_backend",
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "Code_duel_frontend"
       ]
     },
     "Team 082": {
@@ -720,12 +721,13 @@
       ]
     },
     "Ashok089": {
-      "points": 45,
-      "prs": 3,
+      "points": 50,
+      "prs": 4,
       "team": "Team 065",
       "repos": [
         "CareXpert_backend",
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Code_duel_frontend"
       ]
     },
     "dhruvpatel848": {
