@@ -271,8 +271,8 @@
       ]
     },
     "Team 113": {
-      "points": 50,
-      "prs": 4,
+      "points": 70,
+      "prs": 5,
       "contributors": [
         "7JankiPanchal",
         "sneha029",
@@ -809,8 +809,8 @@
       ]
     },
     "7JankiPanchal": {
-      "points": 25,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "team": "Team 113",
       "repos": [
         "Code_duel_frontend",
