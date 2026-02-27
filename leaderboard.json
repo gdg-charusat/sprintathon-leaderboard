@@ -462,15 +462,17 @@
       ]
     },
     "Team 138": {
-      "points": 30,
-      "prs": 3,
+      "points": 35,
+      "prs": 4,
       "contributors": [
         "Vaibhavi-1107",
-        "Pushtikansara"
+        "Pushtikansara",
+        "SakshiKadegiya"
       ],
       "repos": [
         "CareXpert_frontend",
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "Zaplink_frontend"
       ]
     },
     "Team 102": {
@@ -1304,6 +1306,14 @@
       "team": "Team 144",
       "repos": [
         "Code_duel_frontend"
+      ]
+    },
+    "SakshiKadegiya": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 138",
+      "repos": [
+        "Zaplink_frontend"
       ]
     }
   }
