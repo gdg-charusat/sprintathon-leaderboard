@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Fri, 27 Feb 2026 06:27:37 GMT
+> **Last Updated:** Fri, 27 Feb 2026 06:31:40 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -15,7 +15,7 @@
 | 4. | **Team 124** | 135 | 12 | 3 | Zaplink_frontend, CareXpert_frontend, Zaplink_backend, CareXpert_backend | @PrinceDiyora, @kunj01, @RudraDudhat |
 | 5. | **Team 146** | 135 | 9 | 4 | Zaplink_backend, CareXpert_backend, CareXpert_frontend, FMEA_SupplyChain, Code_duel_frontend | @Dhruvi-kanabar30, @Ronit069, @Mahi1206, @Aryan-B-Parikh |
 | 6. | **Team 149** | 125 | 10 | 1 | Zaplink_frontend, CareXpert_frontend, FMEA_SupplyChain, super-roast-bot, PDF_QA_Bot | @RutviShah2 |
-| 7. | **Team 135** | 110 | 7 | 2 | PDF_QA_Bot, Zaplink_frontend | @JainiSolanki, @HetviHR |
+| 7. | **Team 135** | 115 | 8 | 2 | PDF_QA_Bot, Zaplink_frontend | @JainiSolanki, @HetviHR |
 | 8. | **Team 150** | 70 | 5 | 2 | Code_duel_frontend, PDF_QA_Bot, CareXpert_backend | @Akshat14z, @dhrumil246 |
 | 9. | **Team 065** | 65 | 7 | 3 | CareXpert_backend, CareXpert_frontend, Zaplink_backend, Zaplink_frontend | @Ashok089, @Shubhp0712, @samarthpatel2005 |
 | 10. | **Team 082** | 65 | 4 | 1 | CareXpert_backend, Zaplink_backend, PDF_QA_Bot | @dhruvpatel848 |
@@ -70,8 +70,8 @@
 | 5. | @Aryan-B-Parikh | Team 146 | 80 | 4 | FMEA_SupplyChain, CareXpert_frontend, CareXpert_backend, Code_duel_frontend |
 | 6. | @RudraDudhat | Team 124 | 70 | 5 | Zaplink_backend, Zaplink_frontend, CareXpert_backend |
 | 7. | @dhruvpatel848 | Team 082 | 65 | 4 | CareXpert_backend, PDF_QA_Bot, Zaplink_backend |
-| 8. | @chaitany851P | Team 066 | 65 | 4 | Code_duel_backend, super-roast-bot, Zaplink_backend |
-| 9. | @HetviHR | Team 135 | 60 | 3 | PDF_QA_Bot |
+| 8. | @HetviHR | Team 135 | 65 | 4 | PDF_QA_Bot |
+| 9. | @chaitany851P | Team 066 | 65 | 4 | Code_duel_backend, super-roast-bot, Zaplink_backend |
 | 10. | @JainiSolanki | Team 135 | 50 | 4 | PDF_QA_Bot, Zaplink_frontend |
 | 11. | @Talaviya-Sarthak | Team 152 | 50 | 4 | Zaplink_backend, CareXpert_backend |
 | 12. | @Ashok089 | Team 065 | 45 | 3 | CareXpert_backend, CareXpert_frontend |
