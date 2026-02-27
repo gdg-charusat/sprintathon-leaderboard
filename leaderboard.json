@@ -538,15 +538,17 @@
       ]
     },
     "Team 144": {
-      "points": 50,
-      "prs": 4,
+      "points": 70,
+      "prs": 5,
       "contributors": [
-        "renanaik"
+        "renanaik",
+        "PriyanshiG-HUB"
       ],
       "repos": [
         "FMEA_SupplyChain",
         "CareXpert_backend",
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Code_duel_frontend"
       ]
     },
     "Team 147": {
@@ -1285,6 +1287,14 @@
       "team": "Team 109",
       "repos": [
         "FMEA_SupplyChain"
+      ]
+    },
+    "PriyanshiG-HUB": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 144",
+      "repos": [
+        "Code_duel_frontend"
       ]
     }
   }
