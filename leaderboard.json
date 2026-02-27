@@ -565,8 +565,8 @@
       ]
     },
     "Team 107": {
-      "points": 25,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "contributors": [
         "Sp2736"
       ],
@@ -1188,8 +1188,8 @@
       ]
     },
     "Sp2736": {
-      "points": 25,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "team": "Team 107",
       "repos": [
         "CareXpert_frontend",
