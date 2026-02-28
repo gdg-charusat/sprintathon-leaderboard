@@ -284,8 +284,8 @@
       ]
     },
     "Team 113": {
-      "points": 95,
-      "prs": 7,
+      "points": 115,
+      "prs": 8,
       "contributors": [
         "7JankiPanchal",
         "sneha029",
@@ -295,7 +295,8 @@
         "Code_duel_frontend",
         "CareXpert_frontend",
         "Zaplink_frontend",
-        "super-roast-bot"
+        "super-roast-bot",
+        "Code_duel_backend"
       ]
     },
     "Team 163": {
@@ -1325,11 +1326,12 @@
       ]
     },
     "tarun-baranwal": {
-      "points": 20,
-      "prs": 1,
+      "points": 40,
+      "prs": 2,
       "team": "Team 113",
       "repos": [
-        "super-roast-bot"
+        "super-roast-bot",
+        "Code_duel_backend"
       ]
     },
     "kunj2210": {
