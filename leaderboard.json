@@ -112,8 +112,8 @@
       ]
     },
     "Team 052": {
-      "points": 50,
-      "prs": 7,
+      "points": 70,
+      "prs": 8,
       "contributors": [
         "atul-upadhyay-7"
       ],
@@ -689,8 +689,8 @@
       ]
     },
     "atul-upadhyay-7": {
-      "points": 50,
-      "prs": 7,
+      "points": 70,
+      "prs": 8,
       "team": "Team 052",
       "repos": [
         "Zaplink_frontend",
