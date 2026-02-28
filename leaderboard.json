@@ -253,15 +253,16 @@
       ]
     },
     "Team 153": {
-      "points": 40,
-      "prs": 5,
+      "points": 60,
+      "prs": 6,
       "contributors": [
         "unnatii14",
         "Anshu-bhatt"
       ],
       "repos": [
         "PDF_QA_Bot",
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "Zaplink_backend"
       ]
     },
     "Team 135": {
@@ -795,12 +796,13 @@
       ]
     },
     "unnatii14": {
-      "points": 35,
-      "prs": 4,
+      "points": 55,
+      "prs": 5,
       "team": "Team 153",
       "repos": [
         "PDF_QA_Bot",
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "Zaplink_backend"
       ]
     },
     "JainiSolanki": {
