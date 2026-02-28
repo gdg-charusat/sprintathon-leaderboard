@@ -253,11 +253,12 @@
       ]
     },
     "Team 153": {
-      "points": 60,
-      "prs": 6,
+      "points": 80,
+      "prs": 7,
       "contributors": [
         "unnatii14",
-        "Anshu-bhatt"
+        "Anshu-bhatt",
+        "Nency02"
       ],
       "repos": [
         "PDF_QA_Bot",
@@ -1350,6 +1351,14 @@
       "team": "Team 149",
       "repos": [
         "Code_duel_frontend"
+      ]
+    },
+    "Nency02": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 153",
+      "repos": [
+        "CareXpert_backend"
       ]
     }
   }
