@@ -327,15 +327,16 @@
       ]
     },
     "Team 072": {
-      "points": 15,
-      "prs": 3,
+      "points": 20,
+      "prs": 4,
       "contributors": [
         "kushpatel2601"
       ],
       "repos": [
         "Zaplink_frontend",
         "PDF_QA_Bot",
-        "super-roast-bot"
+        "super-roast-bot",
+        "Code_duel_frontend"
       ]
     },
     "Team 036": {
@@ -867,13 +868,14 @@
       ]
     },
     "kushpatel2601": {
-      "points": 15,
-      "prs": 3,
+      "points": 20,
+      "prs": 4,
       "team": "Team 072",
       "repos": [
         "Zaplink_frontend",
         "PDF_QA_Bot",
-        "super-roast-bot"
+        "super-roast-bot",
+        "Code_duel_frontend"
       ]
     },
     "Yashvi29-power": {
