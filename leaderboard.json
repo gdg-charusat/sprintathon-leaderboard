@@ -242,8 +242,8 @@
       ]
     },
     "Team 143": {
-      "points": 60,
-      "prs": 6,
+      "points": 65,
+      "prs": 7,
       "contributors": [
         "HEETMEHTA18",
         "AryanPatelD",
@@ -253,7 +253,8 @@
         "Zaplink_frontend",
         "Zaplink_backend",
         "FMEA_SupplyChain",
-        "Code_duel_frontend"
+        "Code_duel_frontend",
+        "PDF_QA_Bot"
       ]
     },
     "Team 153": {
@@ -801,13 +802,14 @@
       ]
     },
     "HEETMEHTA18": {
-      "points": 50,
-      "prs": 4,
+      "points": 55,
+      "prs": 5,
       "team": "Team 143",
       "repos": [
         "Zaplink_frontend",
         "FMEA_SupplyChain",
-        "Code_duel_frontend"
+        "Code_duel_frontend",
+        "PDF_QA_Bot"
       ]
     },
     "unnatii14": {
