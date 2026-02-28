@@ -268,15 +268,16 @@
       ]
     },
     "Team 135": {
-      "points": 120,
-      "prs": 9,
+      "points": 140,
+      "prs": 10,
       "contributors": [
         "JainiSolanki",
         "HetviHR"
       ],
       "repos": [
         "PDF_QA_Bot",
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "super-roast-bot"
       ]
     },
     "Team 113": {
@@ -811,12 +812,13 @@
       ]
     },
     "JainiSolanki": {
-      "points": 55,
-      "prs": 5,
+      "points": 75,
+      "prs": 6,
       "team": "Team 135",
       "repos": [
         "PDF_QA_Bot",
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "super-roast-bot"
       ]
     },
     "HetviHR": {
