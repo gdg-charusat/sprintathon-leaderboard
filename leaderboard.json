@@ -175,15 +175,16 @@
       ]
     },
     "Team 109": {
-      "points": 45,
-      "prs": 3,
+      "points": 65,
+      "prs": 4,
       "contributors": [
         "manthan2876",
         "kunj2210"
       ],
       "repos": [
         "CareXpert_backend",
-        "FMEA_SupplyChain"
+        "FMEA_SupplyChain",
+        "Zaplink_frontend"
       ]
     },
     "Team 065": {
@@ -1316,11 +1317,12 @@
       ]
     },
     "kunj2210": {
-      "points": 20,
-      "prs": 1,
+      "points": 40,
+      "prs": 2,
       "team": "Team 109",
       "repos": [
-        "FMEA_SupplyChain"
+        "FMEA_SupplyChain",
+        "Zaplink_frontend"
       ]
     },
     "PriyanshiG-HUB": {
