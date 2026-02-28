@@ -443,8 +443,8 @@
       ]
     },
     "Team 146": {
-      "points": 205,
-      "prs": 14,
+      "points": 225,
+      "prs": 15,
       "contributors": [
         "Dhruvi-kanabar30",
         "Ronit069",
@@ -1131,15 +1131,16 @@
       ]
     },
     "Mahi1206": {
-      "points": 75,
-      "prs": 6,
+      "points": 95,
+      "prs": 7,
       "team": "Team 146",
       "repos": [
         "CareXpert_frontend",
         "FMEA_SupplyChain",
         "Code_duel_frontend",
         "PDF_QA_Bot",
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "Code_duel_backend"
       ]
     },
     "DarshitSorathiya": {
