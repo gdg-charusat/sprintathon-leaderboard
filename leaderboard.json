@@ -453,8 +453,8 @@
       ]
     },
     "Team 170": {
-      "points": 65,
-      "prs": 4,
+      "points": 85,
+      "prs": 5,
       "contributors": [
         "DakshSavani13"
       ],
@@ -462,7 +462,8 @@
         "CareXpert_backend",
         "CareXpert_frontend",
         "Zaplink_backend",
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "Code_duel_frontend"
       ]
     },
     "Team 138": {
@@ -1020,14 +1021,15 @@
       ]
     },
     "DakshSavani13": {
-      "points": 65,
-      "prs": 4,
+      "points": 85,
+      "prs": 5,
       "team": "Team 170",
       "repos": [
         "CareXpert_backend",
         "CareXpert_frontend",
         "Zaplink_backend",
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "Code_duel_frontend"
       ]
     },
     "DaxGondaliya": {
