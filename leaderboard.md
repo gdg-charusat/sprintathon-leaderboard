@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Sat, 28 Feb 2026 18:20:36 GMT
+> **Last Updated:** Sat, 28 Feb 2026 18:25:55 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -18,10 +18,10 @@
 | 7. | **Team 135** | 140 | 10 | 2 | PDF_QA_Bot, Zaplink_frontend, super-roast-bot | @JainiSolanki, @HetviHR |
 | 8. | **Team 170** | 125 | 7 | 1 | CareXpert_backend, CareXpert_frontend, Zaplink_backend, Zaplink_frontend, Code_duel_frontend | @DakshSavani13 |
 | 9. | **Team 113** | 95 | 7 | 3 | Code_duel_frontend, CareXpert_frontend, Zaplink_frontend, super-roast-bot | @7JankiPanchal, @sneha029, @tarun-baranwal |
-| 10. | **Team 153** | 80 | 7 | 3 | PDF_QA_Bot, CareXpert_backend, Zaplink_backend | @unnatii14, @Anshu-bhatt, @Nency02 |
-| 11. | **Team 144** | 80 | 7 | 3 | FMEA_SupplyChain, CareXpert_backend, CareXpert_frontend, Code_duel_frontend, Zaplink_frontend | @renanaik, @PriyanshiG-HUB, @Satvi04 |
-| 12. | **Team 052** | 75 | 9 | 1 | Zaplink_frontend, super-roast-bot, CareXpert_frontend, FMEA_SupplyChain, Zaplink_backend | @atul-upadhyay-7 |
-| 13. | **Team 036** | 75 | 6 | 2 | Zaplink_frontend, CareXpert_backend, Zaplink_backend, PDF_QA_Bot, CareXpert_frontend | @Pratham3900, @pratham-25mca046 |
+| 10. | **Team 036** | 95 | 7 | 2 | Zaplink_frontend, CareXpert_backend, Zaplink_backend, PDF_QA_Bot, CareXpert_frontend, Code_duel_backend | @Pratham3900, @pratham-25mca046 |
+| 11. | **Team 153** | 80 | 7 | 3 | PDF_QA_Bot, CareXpert_backend, Zaplink_backend | @unnatii14, @Anshu-bhatt, @Nency02 |
+| 12. | **Team 144** | 80 | 7 | 3 | FMEA_SupplyChain, CareXpert_backend, CareXpert_frontend, Code_duel_frontend, Zaplink_frontend | @renanaik, @PriyanshiG-HUB, @Satvi04 |
+| 13. | **Team 052** | 75 | 9 | 1 | Zaplink_frontend, super-roast-bot, CareXpert_frontend, FMEA_SupplyChain, Zaplink_backend | @atul-upadhyay-7 |
 | 14. | **Team 065** | 70 | 8 | 3 | CareXpert_backend, CareXpert_frontend, Zaplink_backend, Zaplink_frontend, Code_duel_frontend | @Ashok089, @Shubhp0712, @samarthpatel2005 |
 | 15. | **Team 150** | 70 | 5 | 2 | Code_duel_frontend, PDF_QA_Bot, CareXpert_backend | @Akshat14z, @dhrumil246 |
 | 16. | **Team 132** | 70 | 5 | 3 | PDF_QA_Bot, CareXpert_frontend, super-roast-bot, Zaplink_frontend, Code_duel_frontend | @Mathakiya-Amal, @Aryanghadiya, @DeepMakwana-18 |
@@ -71,10 +71,10 @@
 | 6. | @DakshSavani13 | Team 170 | 125 | 7 | CareXpert_backend, CareXpert_frontend, Zaplink_backend, Zaplink_frontend, Code_duel_frontend |
 | 7. | @PrinceDiyora | Team 124 | 105 | 9 | Zaplink_frontend, CareXpert_frontend, Code_duel_frontend, Code_duel_backend |
 | 8. | @Aryan-B-Parikh | Team 146 | 100 | 5 | FMEA_SupplyChain, CareXpert_frontend, CareXpert_backend, Code_duel_frontend, Code_duel_backend |
-| 9. | @atul-upadhyay-7 | Team 052 | 75 | 9 | Zaplink_frontend, super-roast-bot, CareXpert_frontend, FMEA_SupplyChain, Zaplink_backend |
-| 10. | @JainiSolanki | Team 135 | 75 | 6 | PDF_QA_Bot, Zaplink_frontend, super-roast-bot |
-| 11. | @Mahi1206 | Team 146 | 75 | 6 | CareXpert_frontend, FMEA_SupplyChain, Code_duel_frontend, PDF_QA_Bot, CareXpert_backend |
-| 12. | @Pratham3900 | Team 036 | 70 | 5 | Zaplink_frontend, Zaplink_backend, PDF_QA_Bot, CareXpert_frontend |
+| 9. | @Pratham3900 | Team 036 | 90 | 6 | Zaplink_frontend, Zaplink_backend, PDF_QA_Bot, CareXpert_frontend, Code_duel_backend |
+| 10. | @atul-upadhyay-7 | Team 052 | 75 | 9 | Zaplink_frontend, super-roast-bot, CareXpert_frontend, FMEA_SupplyChain, Zaplink_backend |
+| 11. | @JainiSolanki | Team 135 | 75 | 6 | PDF_QA_Bot, Zaplink_frontend, super-roast-bot |
+| 12. | @Mahi1206 | Team 146 | 75 | 6 | CareXpert_frontend, FMEA_SupplyChain, Code_duel_frontend, PDF_QA_Bot, CareXpert_backend |
 | 13. | @chaitany851P | Team 066 | 70 | 5 | Code_duel_backend, super-roast-bot, Zaplink_backend |
 | 14. | @dhruvpatel848 | Team 082 | 65 | 4 | CareXpert_backend, PDF_QA_Bot, Zaplink_backend |
 | 15. | @kunj01 | Team 124 | 65 | 4 | Zaplink_frontend, CareXpert_frontend |
