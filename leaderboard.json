@@ -458,8 +458,8 @@
       ]
     },
     "Team 170": {
-      "points": 105,
-      "prs": 6,
+      "points": 125,
+      "prs": 7,
       "contributors": [
         "DakshSavani13"
       ],
@@ -1029,8 +1029,8 @@
       ]
     },
     "DakshSavani13": {
-      "points": 105,
-      "prs": 6,
+      "points": 125,
+      "prs": 7,
       "team": "Team 170",
       "repos": [
         "CareXpert_backend",
