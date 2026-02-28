@@ -556,17 +556,19 @@
       ]
     },
     "Team 144": {
-      "points": 75,
-      "prs": 6,
+      "points": 80,
+      "prs": 7,
       "contributors": [
         "renanaik",
-        "PriyanshiG-HUB"
+        "PriyanshiG-HUB",
+        "Satvi04"
       ],
       "repos": [
         "FMEA_SupplyChain",
         "CareXpert_backend",
         "CareXpert_frontend",
-        "Code_duel_frontend"
+        "Code_duel_frontend",
+        "Zaplink_frontend"
       ]
     },
     "Team 147": {
@@ -1364,6 +1366,14 @@
       "team": "Team 153",
       "repos": [
         "CareXpert_backend"
+      ]
+    },
+    "Satvi04": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 144",
+      "repos": [
+        "Zaplink_frontend"
       ]
     }
   }
