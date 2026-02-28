@@ -96,8 +96,8 @@
       ]
     },
     "Team 149": {
-      "points": 210,
-      "prs": 15,
+      "points": 230,
+      "prs": 16,
       "contributors": [
         "RutviShah2",
         "Disumakadiya"
@@ -1346,11 +1346,12 @@
       ]
     },
     "Disumakadiya": {
-      "points": 20,
-      "prs": 1,
+      "points": 40,
+      "prs": 2,
       "team": "Team 149",
       "repos": [
-        "Code_duel_frontend"
+        "Code_duel_frontend",
+        "CareXpert_frontend"
       ]
     },
     "Nency02": {
