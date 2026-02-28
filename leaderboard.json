@@ -34,8 +34,8 @@
       ]
     },
     "Team 152": {
-      "points": 340,
-      "prs": 29,
+      "points": 345,
+      "prs": 30,
       "contributors": [
         "Krish3017",
         "Talaviya-Sarthak",
@@ -999,12 +999,13 @@
       ]
     },
     "Talaviya-Sarthak": {
-      "points": 50,
-      "prs": 4,
+      "points": 55,
+      "prs": 5,
       "team": "Team 152",
       "repos": [
         "Zaplink_backend",
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "Code_duel_backend"
       ]
     },
     "DeepPatel4505": {
