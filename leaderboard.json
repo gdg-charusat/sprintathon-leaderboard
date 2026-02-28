@@ -599,14 +599,16 @@
       ]
     },
     "Team 187": {
-      "points": 40,
-      "prs": 2,
+      "points": 60,
+      "prs": 3,
       "contributors": [
-        "Yashgohel018"
+        "Yashgohel018",
+        "Sarthakdonda"
       ],
       "repos": [
         "CareXpert_frontend",
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "Code_duel_backend"
       ]
     }
   },
@@ -1383,6 +1385,14 @@
       "team": "Team 144",
       "repos": [
         "Zaplink_frontend"
+      ]
+    },
+    "Sarthakdonda": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 187",
+      "repos": [
+        "Code_duel_backend"
       ]
     }
   }
