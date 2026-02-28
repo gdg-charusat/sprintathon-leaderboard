@@ -250,8 +250,8 @@
       ]
     },
     "Team 153": {
-      "points": 35,
-      "prs": 4,
+      "points": 40,
+      "prs": 5,
       "contributors": [
         "unnatii14",
         "Anshu-bhatt"
@@ -788,8 +788,8 @@
       ]
     },
     "unnatii14": {
-      "points": 30,
-      "prs": 3,
+      "points": 35,
+      "prs": 4,
       "team": "Team 153",
       "repos": [
         "PDF_QA_Bot",
