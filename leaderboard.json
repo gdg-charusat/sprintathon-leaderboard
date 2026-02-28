@@ -346,8 +346,8 @@
       ]
     },
     "Team 036": {
-      "points": 55,
-      "prs": 5,
+      "points": 75,
+      "prs": 6,
       "contributors": [
         "Pratham3900",
         "pratham-25mca046"
@@ -898,8 +898,8 @@
       ]
     },
     "Pratham3900": {
-      "points": 50,
-      "prs": 4,
+      "points": 70,
+      "prs": 5,
       "team": "Team 036",
       "repos": [
         "Zaplink_frontend",
