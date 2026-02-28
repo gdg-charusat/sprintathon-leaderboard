@@ -97,8 +97,8 @@
       ]
     },
     "Team 149": {
-      "points": 255,
-      "prs": 18,
+      "points": 275,
+      "prs": 19,
       "contributors": [
         "RutviShah2",
         "Disumakadiya"
@@ -1369,8 +1369,8 @@
       ]
     },
     "Disumakadiya": {
-      "points": 65,
-      "prs": 4,
+      "points": 85,
+      "prs": 5,
       "team": "Team 149",
       "repos": [
         "Code_duel_frontend",
