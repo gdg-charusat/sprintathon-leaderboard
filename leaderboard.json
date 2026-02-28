@@ -389,15 +389,17 @@
       ]
     },
     "Team 066": {
-      "points": 70,
-      "prs": 5,
+      "points": 75,
+      "prs": 6,
       "contributors": [
-        "chaitany851P"
+        "chaitany851P",
+        "24dce027-jpg"
       ],
       "repos": [
         "Code_duel_backend",
         "super-roast-bot",
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "FMEA_SupplyChain"
       ]
     },
     "Team 168": {
@@ -1406,6 +1408,14 @@
       "team": "Team 187",
       "repos": [
         "Code_duel_backend"
+      ]
+    },
+    "24dce027-jpg": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 066",
+      "repos": [
+        "FMEA_SupplyChain"
       ]
     }
   }
