@@ -1,38 +1,5 @@
 {
   "teams": {
-    "Team 124": {
-      "points": 405,
-      "prs": 27,
-      "contributors": [
-        "PrinceDiyora",
-        "kunj01",
-        "RudraDudhat"
-      ],
-      "repos": [
-        "Zaplink_frontend",
-        "CareXpert_frontend",
-        "Zaplink_backend",
-        "CareXpert_backend",
-        "Code_duel_frontend",
-        "Code_duel_backend"
-      ]
-    },
-    "Team 173": {
-      "points": 495,
-      "prs": 30,
-      "contributors": [
-        "vasu-CE"
-      ],
-      "repos": [
-        "Code_duel_frontend",
-        "Code_duel_backend",
-        "PDF_QA_Bot",
-        "Zaplink_backend",
-        "Zaplink_frontend",
-        "CareXpert_backend",
-        "CareXpert_frontend"
-      ]
-    },
     "Team 152": {
       "points": 315,
       "prs": 27,
@@ -610,31 +577,6 @@
     }
   },
   "contributors": {
-    "PrinceDiyora": {
-      "points": 105,
-      "prs": 9,
-      "team": "Team 124",
-      "repos": [
-        "Zaplink_frontend",
-        "CareXpert_frontend",
-        "Code_duel_frontend",
-        "Code_duel_backend"
-      ]
-    },
-    "vasu-CE": {
-      "points": 495,
-      "prs": 30,
-      "team": "Team 173",
-      "repos": [
-        "Code_duel_frontend",
-        "Code_duel_backend",
-        "PDF_QA_Bot",
-        "Zaplink_backend",
-        "Zaplink_frontend",
-        "CareXpert_backend",
-        "CareXpert_frontend"
-      ]
-    },
     "Krish3017": {
       "points": 220,
       "prs": 20,
@@ -782,15 +724,6 @@
       "team": "Team 167",
       "repos": [
         "Code_duel_frontend"
-      ]
-    },
-    "kunj01": {
-      "points": 65,
-      "prs": 4,
-      "team": "Team 124",
-      "repos": [
-        "Zaplink_frontend",
-        "CareXpert_frontend"
       ]
     },
     "HEETMEHTA18": {
@@ -980,17 +913,6 @@
       "team": "Team 101",
       "repos": [
         "PDF_QA_Bot"
-      ]
-    },
-    "RudraDudhat": {
-      "points": 235,
-      "prs": 14,
-      "team": "Team 124",
-      "repos": [
-        "Zaplink_backend",
-        "Zaplink_frontend",
-        "CareXpert_backend",
-        "CareXpert_frontend"
       ]
     },
     "Talaviya-Sarthak": {
