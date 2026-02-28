@@ -1,8 +1,8 @@
 {
   "teams": {
     "Team 124": {
-      "points": 305,
-      "prs": 22,
+      "points": 325,
+      "prs": 23,
       "contributors": [
         "PrinceDiyora",
         "kunj01",
@@ -13,7 +13,8 @@
         "CareXpert_frontend",
         "Zaplink_backend",
         "CareXpert_backend",
-        "Code_duel_frontend"
+        "Code_duel_frontend",
+        "Code_duel_backend"
       ]
     },
     "Team 173": {
@@ -601,13 +602,14 @@
   },
   "contributors": {
     "PrinceDiyora": {
-      "points": 65,
-      "prs": 7,
+      "points": 85,
+      "prs": 8,
       "team": "Team 124",
       "repos": [
         "Zaplink_frontend",
         "CareXpert_frontend",
-        "Code_duel_frontend"
+        "Code_duel_frontend",
+        "Code_duel_backend"
       ]
     },
     "vasu-CE": {
