@@ -472,8 +472,8 @@
       ]
     },
     "Team 138": {
-      "points": 55,
-      "prs": 5,
+      "points": 60,
+      "prs": 6,
       "contributors": [
         "Vaibhavi-1107",
         "Pushtikansara",
@@ -482,7 +482,8 @@
       "repos": [
         "CareXpert_frontend",
         "CareXpert_backend",
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "Zaplink_backend"
       ]
     },
     "Team 102": {
@@ -1274,11 +1275,12 @@
       ]
     },
     "Pushtikansara": {
-      "points": 5,
-      "prs": 1,
+      "points": 10,
+      "prs": 2,
       "team": "Team 138",
       "repos": [
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "Zaplink_backend"
       ]
     },
     "Hetrajj07": {
