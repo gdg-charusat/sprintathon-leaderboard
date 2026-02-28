@@ -555,8 +555,8 @@
       ]
     },
     "Team 144": {
-      "points": 70,
-      "prs": 5,
+      "points": 75,
+      "prs": 6,
       "contributors": [
         "renanaik",
         "PriyanshiG-HUB"
@@ -1324,8 +1324,8 @@
       ]
     },
     "PriyanshiG-HUB": {
-      "points": 20,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "team": "Team 144",
       "repos": [
         "Code_duel_frontend"
