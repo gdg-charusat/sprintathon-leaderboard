@@ -471,8 +471,8 @@
       ]
     },
     "Team 138": {
-      "points": 35,
-      "prs": 4,
+      "points": 55,
+      "prs": 5,
       "contributors": [
         "Vaibhavi-1107",
         "Pushtikansara",
@@ -1055,11 +1055,12 @@
       ]
     },
     "Vaibhavi-1107": {
-      "points": 25,
-      "prs": 2,
+      "points": 45,
+      "prs": 3,
       "team": "Team 138",
       "repos": [
-        "CareXpert_frontend"
+        "CareXpert_frontend",
+        "Zaplink_frontend"
       ]
     },
     "Ronit069": {
