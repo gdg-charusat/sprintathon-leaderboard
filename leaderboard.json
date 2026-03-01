@@ -371,8 +371,8 @@
       ]
     },
     "Team 137": {
-      "points": 20,
-      "prs": 4,
+      "points": 25,
+      "prs": 5,
       "contributors": [
         "hindochahitarth",
         "Atibali"
@@ -1437,8 +1437,8 @@
       ]
     },
     "Atibali": {
-      "points": 10,
-      "prs": 2,
+      "points": 15,
+      "prs": 3,
       "team": "Team 137",
       "repos": [
         "Code_duel_backend"
