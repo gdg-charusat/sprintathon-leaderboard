@@ -538,14 +538,16 @@
       ]
     },
     "Team 126": {
-      "points": 35,
-      "prs": 4,
+      "points": 55,
+      "prs": 5,
       "contributors": [
         "PatelAaryan03",
-        "Hetrajj07"
+        "Hetrajj07",
+        "mitesh006"
       ],
       "repos": [
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "Code_duel_backend"
       ]
     },
     "Team 131": {
@@ -1422,6 +1424,14 @@
       "team": "Team 066",
       "repos": [
         "FMEA_SupplyChain"
+      ]
+    },
+    "mitesh006": {
+      "points": 20,
+      "prs": 1,
+      "team": "Team 126",
+      "repos": [
+        "Code_duel_backend"
       ]
     }
   }
