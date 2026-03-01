@@ -258,8 +258,8 @@
       ]
     },
     "Team 153": {
-      "points": 80,
-      "prs": 7,
+      "points": 100,
+      "prs": 8,
       "contributors": [
         "unnatii14",
         "Anshu-bhatt",
@@ -268,7 +268,8 @@
       "repos": [
         "PDF_QA_Bot",
         "CareXpert_backend",
-        "Zaplink_backend"
+        "Zaplink_backend",
+        "FMEA_SupplyChain"
       ]
     },
     "Team 135": {
@@ -1387,11 +1388,12 @@
       ]
     },
     "Nency02": {
-      "points": 20,
-      "prs": 1,
+      "points": 40,
+      "prs": 2,
       "team": "Team 153",
       "repos": [
-        "CareXpert_backend"
+        "CareXpert_backend",
+        "FMEA_SupplyChain"
       ]
     },
     "Satvi04": {
