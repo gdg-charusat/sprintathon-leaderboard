@@ -485,8 +485,8 @@
       ]
     },
     "Team 138": {
-      "points": 60,
-      "prs": 6,
+      "points": 80,
+      "prs": 7,
       "contributors": [
         "Vaibhavi-1107",
         "Pushtikansara",
@@ -1362,8 +1362,8 @@
       ]
     },
     "SakshiKadegiya": {
-      "points": 5,
-      "prs": 1,
+      "points": 25,
+      "prs": 2,
       "team": "Team 138",
       "repos": [
         "Zaplink_frontend"
