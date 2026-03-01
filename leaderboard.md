@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Sun, 01 Mar 2026 17:47:35 GMT
+> **Last Updated:** Sun, 01 Mar 2026 17:48:38 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -50,9 +50,9 @@
 | 39. | **Team 131** | 20 | 1 | 1 | super-roast-bot | @DarshitSorathiya |
 | 40. | **Team 186** | 20 | 1 | 1 | super-roast-bot | @Raxnakum11 |
 | 41. | **Team 101** | 15 | 3 | 2 | CareXpert_frontend, PDF_QA_Bot | @ohmbhatia, @hetrakholiya11 |
-| 42. | **Team 188** | 15 | 3 | 1 | Zaplink_backend, CareXpert_backend | @24cs062 |
-| 43. | **Team 123** | 10 | 2 | 2 | Zaplink_backend, Code_duel_frontend | @princedesai012, @rishi-sheladiya-26 |
-| 44. | **Team 137** | 10 | 2 | 1 | Zaplink_frontend | @hindochahitarth |
+| 42. | **Team 137** | 15 | 3 | 2 | Zaplink_frontend, Code_duel_backend | @hindochahitarth, @Atibali |
+| 43. | **Team 188** | 15 | 3 | 1 | Zaplink_backend, CareXpert_backend | @24cs062 |
+| 44. | **Team 123** | 10 | 2 | 2 | Zaplink_backend, Code_duel_frontend | @princedesai012, @rishi-sheladiya-26 |
 | 45. | **Team 147** | 10 | 2 | 2 | FMEA_SupplyChain, Code_duel_backend | @Deepbhalani1277, @PrIyAnSh095 |
 | 46. | **Team 114** | 5 | 1 | 1 | Code_duel_frontend | @Preetsavaliya111 |
 | 47. | **Team 171** | 5 | 1 | 1 | Code_duel_frontend | @Aelees0807 |
@@ -152,6 +152,7 @@
 | 87. | @neel92654 | Team 168 | 5 | 1 | PDF_QA_Bot |
 | 88. | @PrIyAnSh095 | Team 147 | 5 | 1 | Code_duel_backend |
 | 89. | @24dce027-jpg | Team 066 | 5 | 1 | FMEA_SupplyChain |
+| 90. | @Atibali | Team 137 | 5 | 1 | Code_duel_backend |
 
 ---
 

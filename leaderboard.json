@@ -371,13 +371,15 @@
       ]
     },
     "Team 137": {
-      "points": 10,
-      "prs": 2,
+      "points": 15,
+      "prs": 3,
       "contributors": [
-        "hindochahitarth"
+        "hindochahitarth",
+        "Atibali"
       ],
       "repos": [
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "Code_duel_backend"
       ]
     },
     "Team 161": {
@@ -1430,6 +1432,14 @@
       "points": 20,
       "prs": 1,
       "team": "Team 126",
+      "repos": [
+        "Code_duel_backend"
+      ]
+    },
+    "Atibali": {
+      "points": 5,
+      "prs": 1,
+      "team": "Team 137",
       "repos": [
         "Code_duel_backend"
       ]
