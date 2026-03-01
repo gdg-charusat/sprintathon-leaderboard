@@ -34,8 +34,8 @@
       ]
     },
     "Team 152": {
-      "points": 370,
-      "prs": 32,
+      "points": 390,
+      "prs": 33,
       "contributors": [
         "Krish3017",
         "Talaviya-Sarthak",
@@ -1265,13 +1265,14 @@
       ]
     },
     "surejasmit": {
-      "points": 65,
-      "prs": 4,
+      "points": 85,
+      "prs": 5,
       "team": "Team 152",
       "repos": [
         "PDF_QA_Bot",
         "super-roast-bot",
-        "FMEA_SupplyChain"
+        "FMEA_SupplyChain",
+        "Code_duel_frontend"
       ]
     },
     "DeepMakwana-18": {
