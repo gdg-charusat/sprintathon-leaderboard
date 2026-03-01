@@ -286,8 +286,8 @@
       ]
     },
     "Team 113": {
-      "points": 115,
-      "prs": 8,
+      "points": 120,
+      "prs": 9,
       "contributors": [
         "7JankiPanchal",
         "sneha029",
@@ -1277,11 +1277,12 @@
       ]
     },
     "sneha029": {
-      "points": 10,
-      "prs": 2,
+      "points": 15,
+      "prs": 3,
       "team": "Team 113",
       "repos": [
-        "Zaplink_frontend"
+        "Zaplink_frontend",
+        "CareXpert_frontend"
       ]
     },
     "samarthpatel2005": {

@@ -1,6 +1,6 @@
 # 🏆 GDG CHARUSAT Open Source Contri Sprintathon — Leaderboard
 
-> **Last Updated:** Sun, 01 Mar 2026 16:28:20 GMT
+> **Last Updated:** Sun, 01 Mar 2026 17:46:25 GMT
 > **Tracking:** Zaplink_frontend · Zaplink_backend · CareXpert_frontend · CareXpert_backend · Code_duel_frontend · Code_duel_backend
 
 ---
@@ -17,7 +17,7 @@
 | 6. | **Team 125** | 190 | 14 | 2 | CareXpert_frontend, Zaplink_frontend, Code_duel_frontend | @Diyap235, @Yashvi29-power |
 | 7. | **Team 135** | 180 | 12 | 2 | PDF_QA_Bot, Zaplink_frontend, super-roast-bot | @JainiSolanki, @HetviHR |
 | 8. | **Team 170** | 125 | 7 | 1 | CareXpert_backend, CareXpert_frontend, Zaplink_backend, Zaplink_frontend, Code_duel_frontend | @DakshSavani13 |
-| 9. | **Team 113** | 115 | 8 | 3 | Code_duel_frontend, CareXpert_frontend, Zaplink_frontend, super-roast-bot, Code_duel_backend | @7JankiPanchal, @sneha029, @tarun-baranwal |
+| 9. | **Team 113** | 120 | 9 | 3 | Code_duel_frontend, CareXpert_frontend, Zaplink_frontend, super-roast-bot, Code_duel_backend | @7JankiPanchal, @sneha029, @tarun-baranwal |
 | 10. | **Team 153** | 100 | 8 | 3 | PDF_QA_Bot, CareXpert_backend, Zaplink_backend, FMEA_SupplyChain | @unnatii14, @Anshu-bhatt, @Nency02 |
 | 11. | **Team 036** | 100 | 8 | 2 | Zaplink_frontend, CareXpert_backend, Zaplink_backend, PDF_QA_Bot, CareXpert_frontend, Code_duel_backend | @Pratham3900, @pratham-25mca046 |
 | 12. | **Team 144** | 100 | 8 | 3 | FMEA_SupplyChain, CareXpert_backend, CareXpert_frontend, Code_duel_frontend, Zaplink_frontend | @renanaik, @PriyanshiG-HUB, @Satvi04 |
@@ -125,14 +125,14 @@
 | 60. | @Sarthakdonda | Team 187 | 20 | 1 | Code_duel_backend |
 | 61. | @smitgoyani123 | Team 119 | 15 | 3 | Code_duel_frontend, CareXpert_frontend |
 | 62. | @24cs062 | Team 188 | 15 | 3 | Zaplink_backend, CareXpert_backend |
-| 63. | @samarthpatel2005 | Team 065 | 15 | 3 | Zaplink_frontend, CareXpert_backend |
-| 64. | @Hetrajj07 | Team 126 | 15 | 3 | CareXpert_backend |
-| 65. | @ohmbhatia | Team 101 | 10 | 2 | CareXpert_frontend |
-| 66. | @HeerGhevariya | Team 119 | 10 | 2 | CareXpert_frontend |
-| 67. | @hindochahitarth | Team 137 | 10 | 2 | Zaplink_frontend |
-| 68. | @Dhruvi-kanabar30 | Team 146 | 10 | 2 | Zaplink_backend |
-| 69. | @DaxGondaliya | Team 163 | 10 | 2 | CareXpert_backend, Code_duel_backend |
-| 70. | @sneha029 | Team 113 | 10 | 2 | Zaplink_frontend |
+| 63. | @sneha029 | Team 113 | 15 | 3 | Zaplink_frontend, CareXpert_frontend |
+| 64. | @samarthpatel2005 | Team 065 | 15 | 3 | Zaplink_frontend, CareXpert_backend |
+| 65. | @Hetrajj07 | Team 126 | 15 | 3 | CareXpert_backend |
+| 66. | @ohmbhatia | Team 101 | 10 | 2 | CareXpert_frontend |
+| 67. | @HeerGhevariya | Team 119 | 10 | 2 | CareXpert_frontend |
+| 68. | @hindochahitarth | Team 137 | 10 | 2 | Zaplink_frontend |
+| 69. | @Dhruvi-kanabar30 | Team 146 | 10 | 2 | Zaplink_backend |
+| 70. | @DaxGondaliya | Team 163 | 10 | 2 | CareXpert_backend, Code_duel_backend |
 | 71. | @Pushtikansara | Team 138 | 10 | 2 | CareXpert_backend, Zaplink_backend |
 | 72. | @princedesai012 | Team 123 | 5 | 1 | Zaplink_backend |
 | 73. | @rishi-sheladiya-26 | Team 123 | 5 | 1 | Code_duel_frontend |
