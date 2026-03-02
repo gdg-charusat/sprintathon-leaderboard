@@ -34,8 +34,8 @@
       ]
     },
     "Team 152": {
-      "points": 455,
-      "prs": 37,
+      "points": 475,
+      "prs": 38,
       "contributors": [
         "Krish3017",
         "Talaviya-Sarthak",
@@ -1267,8 +1267,8 @@
       ]
     },
     "surejasmit": {
-      "points": 145,
-      "prs": 8,
+      "points": 165,
+      "prs": 9,
       "team": "Team 152",
       "repos": [
         "PDF_QA_Bot",
